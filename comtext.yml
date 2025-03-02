@@ -1,0 +1,9 @@
+vuepress:
+  title: "Esperanto"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
