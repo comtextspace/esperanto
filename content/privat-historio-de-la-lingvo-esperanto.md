@@ -1,3 +1,9 @@
+---
+title: Historio de la lingvo Esperanto
+author:
+- Edmond Privat
+---
+
 # Historio de la lingvo Esperanto
 
 Edmond Privat
@@ -5,6 +11,8 @@ Edmond Privat
 La movado 1900 — 1927.
 
 Ferdinand Hirt & Sohn en Leipzig / 1927, ESPERANTO-FAKO.
+
+La skanaĵo de la libro estas en [la retejo de REU](https://reu.ru/paghoj/pbf.html).
 
 [[TOC]]
 
