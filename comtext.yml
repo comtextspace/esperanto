@@ -1,7 +1,7 @@
 vuepress:
   title: "Esperanto"
   base: "/"
-  revisionmeProjectId: ""
+  revisionmeProjectId: "-ONrad5mupne0_aXOif4"
 
 pages:
   - index.md
