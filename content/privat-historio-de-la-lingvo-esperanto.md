@@ -286,9 +286,11 @@ Por zorgi pri lingvaj aferoj oni deziris, ke d-ro Zamenhof mem elektu la plej ko
 
 * 12 Anglojn (Ellis, Rhodes, O'Connor, Millidge, Moscheles, Motteau, Mudie, Pollen, fraŭlino Shafer, d-ro Lloyd, Busutil, Emeric).
 
-* 4 „Aŭstrujanojn“ (Schroder, Simon, Ĉejka[^3], Kiihnl[^3]).
+* 4 „Aŭstrujanojn“ (Schroder, Simon, Ĉejka[^3], Kiihnl[^4]).
 
 [^3]: Ĉeĥoj.
+
+[^4]: Ĉeĥoj.
 
 * 3 Belgojn (Jamin, Lemaire, Seynaeve).
 * 1 Brazllanon (Coutinho).
@@ -297,18 +299,18 @@ Por zorgi pri lingvaj aferoj oni deziris, ke d-ro Zamenhof mem elektu la plej ko
 * 1 Dunon (Skeel Gbrling).
 * 3 Finnlandanojn (Gustavsson, d-ro Runeberg).
 * 20 Francojn (de Beaufront, Rene Lemaire, Benoist, Bourlet, Cart, Fruictier, Guilbeau, d-ro Javal, Moch, Sĉbert, Boirac, Lambert, Mĉray, d-ro Dor, Samuel Meyer, abato Peltier, Michaux, Cape, Matton, Guillaume).
-* 4 Germanojn (Borel[^4], Schmidt, d-ro Ebner, d-ro Mybs).
+* 4 Germanojn (Borel[^5], Schmidt, d-ro Ebner, d-ro Mybs).
 
-[^4]: Jean Borel, franclingva Sviso en Berlin, fondinto de la Esperanto-movado tie.
+[^5]: Jean Borel, franclingva Sviso en Berlin, fondinto de la Esperanto-movado tie.
 
 * 1 Grekon (Dragumis).
 * 4 Hispanojn (Codorniu, Villanueva, Inglada, Sabadell).
 * 1 Holandanon (Uitterdyk).
 * 3 Hungarojn (Lengyel, Miletz, Siŭssmuth).
 * 1 Islandanon (Thornsteinsson).
-* 6 Italojn (Blanc, Marignoni, Bicknell[^5], sinjorino Junck, Gallois, Bagnulo).
+* 6 Italojn (Blanc, Marignoni, Bicknell[^6], sinjorino Junck, Gallois, Bagnulo).
 
-[^5]: Anglo, Esperanto-poeto en Bordighera, fondinto de la movado tie.
+[^6]: Anglo, Esperanto-poeto en Bordighera, fondinto de la movado tie.
 
 * 2 por Japanujo (Gauntlett, Mackensie).
 * 2 Kanadanojn (Beauchemin, Saint-Martin).
@@ -318,9 +320,9 @@ Por zorgi pri lingvaj aferoj oni deziris, ke d-ro Zamenhof mem elektu la plej ko
 * 1 Person (Abesgus).
 * 3 Polojn (Kabe, Leo Belmont, Grabowski).
 * 1 Portugalon (Costa el Almeida).
-* 7 Rusojn (Avilov, Zinoviev, Kofman, Gernet, Ostrovski, Asnes, Dombrovski[^6]).
+* 7 Rusojn (Avilov, Zinoviev, Kofman, Gernet, Ostrovski, Asnes, Dombrovski[^7]).
 
-[^6]: Litova prelato, Esperanto-poeto.
+[^7]: Litova prelato, Esperanto-poeto.
 
 * 4 Svedojn (Ahlberg, Krikortz, Nylen, fraŭlino Cederblad).
 * 2 Svisojn (Renard, Schneeberger).
@@ -356,9 +358,9 @@ Generalo Sebert gvidis ĉion sisteme kaj grandstile. Li volis okazigi Esperanto-
 
 Estante generalo, kutimanta je obeo, kaj ankaŭ paginte mem plej grandan parton de la elspezoj de la Oficejo, ĝia fondinto malfacile akceptis tian senĉesan demokratan kritikadon, postuladon de kontoj kaj kontraŭbataladon de liaj ideoj kaj planoj, ofte tro komplikaj por la amaso. Estas mirinde, ke tiel altranga maljuna homo tamen paciencis kaj fidele daŭrigis sian sendankan laboradon.
 
-Pri tiuj organizaj temoj fluis multe da paroloj kaj multe da inko dum dek jaroj. El tio gajnis ĉefe la lingvo, kiu adoptiĝis al parlamenta diskutado kaj formis sian propran esprimaron por regularoj, rezolucioj, statutoj, raportoj ktp. Eble en neniu alia kampo estas Esperanto tiom riĉa je amasigita sperto per uzado kaj vivo[^7].
+Pri tiuj organizaj temoj fluis multe da paroloj kaj multe da inko dum dek jaroj. El tio gajnis ĉefe la lingvo, kiu adoptiĝis al parlamenta diskutado kaj formis sian propran esprimaron por regularoj, rezolucioj, statutoj, raportoj ktp. Eble en neniu alia kampo estas Esperanto tiom riĉa je amasigita sperto per uzado kaj vivo[^8].
 
-[^7]: El la evoluo de la lingvo el tiu epoko, ni notu ekzemple forlason de „presaro“ por „gazetaro“ kaj la revenon de „riprezentanto“ al „reprezentanto“.
+[^8]: El la evoluo de la lingvo el tiu epoko, ni notu ekzemple forlason de „presaro“ por „gazetaro“ kaj la revenon de „riprezentanto“ al „reprezentanto“.
 
 Generalo Sebert estas nekontesteble la fondinto de la Esperantista Dokumentaro. Dank' al lia metoda laborado ekzistas presitaj protokoloj de ĉiuj kongresoj kaj ordigitaj raportoj pri la tuta laborado de la Lingva Komitato de ĝia fondo ĝis la mondmilito. Sed lia influo estis ankaŭ granda en multaj propagandaj aferoj. Lia nomo kaj lia persistemo konigis Esperanton en intelektaj kaj sciencaj rondoj kaj allogis al la kongresoj gravajn personojn.
 
@@ -382,9 +384,9 @@ Jam estis aperintaj en Esperanto *Matematika Terminaro* de R. Bricard, *Anatomia
 
 Sed la ĝeneralaj kunsidoj ankaŭ ekzamenis utilajn temojn. Dum la malfermo d-ro Zamenhof akcentis en Geneve, ke la motivo de la tuta esperantista agado estis ja idealista inspiro al plibonigo de homaj interrilatoj. Oni laboru por apliki la lingvon al uzo teknika, scienca, komerca, turisma, sed la kongresoj ne forgesu sian plej profundan taskon, tio estas kulturi la flamon de homara sindono kaj espero. La Bulonja deklaracio prave apartigis tiajn privatajn sentojn kaj la oficialan pure praktikan celon de Esperantismo kiel movado mondlingva. Kelkaj esperantistoij en Francujo, interalie sinjoro de Beaufront, konfuzis la vorton „privata“ kun „malpermesata“. Ili laŭte ripetadis, ke „Esperanto estas nur lingvo“ kaj svingis la Bulonjan Deklaracion por admoni — eĉ d-ron Zamenhof interlinie — ke oni silentu pri ĉio alia.
 
-Tian negativan komprenon d-ro Zamenhof indigne repuŝis en sia Ĝeneva parolado: „Kun tia Esperanto, kiu devas servi ekskluzive nur al celoj de komerco kaj praktika utileco, ni volas havi nenion komunan[^8]“ La sovaĝa pogromo ĵus okazinta en lia naskiĝurbo Bjalistok montris al li kiom urĝis forigi antaŭjuĝojn inter gentoj kaj disvastigi tra la mondo novan koncepton pri interhomaj rilatoj: „Ni ĉiuj konscias tre bone, ke al laborado por Esperanto instigas nin ne la penso pri praktika utileco, sed nur la penso pri la sankta, granda kaj grava ideo, kiun lingvo internacia en si enhavas. Tiu ĉi ideo — vi ĉiuj sentas ĝin tre bone — estas frateco kaj justeco inter ĉiuj popoloj.“
+Tian negativan komprenon d-ro Zamenhof indigne repuŝis en sia Ĝeneva parolado: „Kun tia Esperanto, kiu devas servi ekskluzive nur al celoj de komerco kaj praktika utileco, ni volas havi nenion komunan[^9]“ La sovaĝa pogromo ĵus okazinta en lia naskiĝurbo Bjalistok montris al li kiom urĝis forigi antaŭjuĝojn inter gentoj kaj disvastigi tra la mondo novan koncepton pri interhomaj rilatoj: „Ni ĉiuj konscias tre bone, ke al laborado por Esperanto instigas nin ne la penso pri praktika utileco, sed nur la penso pri la sankta, granda kaj grava ideo, kiun lingvo internacia en si enhavas. Tiu ĉi ideo — vi ĉiuj sentas ĝin tre bone — estas frateco kaj justeco inter ĉiuj popoloj.“
 
-[^8]: Vidu detalan studon pri tiu ĉi afero en „Vivo de Zamenhof“, ĉapitro VIII.
+[^9]: Vidu detalan studon pri tiu ĉi afero en „Vivo de Zamenhof“, ĉapitro VIII.
 
 Tiel d-ro Zamenhof priskribis sian motivon al laboro kaj certe tiun de la granda plimulto de la komenca esperantistaro. Sed li ankaŭ bone sciis, ke nobla inspiro devas esprimiĝi per utilaj agoj. Al li plaĉis antaŭ ĉio la uzo de Esperanto por reciproka helpado inter homoj.
 
@@ -402,9 +404,9 @@ Tion bone komprenis prof. Cart kaj fraŭlino Zabilon d'Her el Lyon. lli kolektis
 
 ## La kresko. Tria kongreso en Cambridge (1907)
 
-En 1907 Esperanto-movado atingis gradon de efektiva graveco. Fondiĝis societoj ĉie, eĉ en Usono kaj en Japanujo. Ankaŭ la literaturo kreskis. Novaj verkoj aperis en granda nombro, lernolibroj kaj vortaroj en 26 lingvoj: rusa, pola, franca, germana (1887), angla, hebrea, juda (1888), sveda, latva (1889), dana, bulgara, itala, hispana, ĉeĥa, litova (1890), portugala, holanda, hungara, estona (1892—1899), kataluna, flandra, finna, japana, greka, rutena, araba (1901—1907). Prof. Carlo Bourlet fondis ĉe Hachette „La Revuon“ kun konstanta kunlaborado de d-ro Zamenhof, kiu publikigis tie siajn tradukojn kaj „Lingvajn Respondojn“. Ĝi organizis konkursojn de verkistoj kaj disdonis premiojn[^9].
+En 1907 Esperanto-movado atingis gradon de efektiva graveco. Fondiĝis societoj ĉie, eĉ en Usono kaj en Japanujo. Ankaŭ la literaturo kreskis. Novaj verkoj aperis en granda nombro, lernolibroj kaj vortaroj en 26 lingvoj: rusa, pola, franca, germana (1887), angla, hebrea, juda (1888), sveda, latva (1889), dana, bulgara, itala, hispana, ĉeĥa, litova (1890), portugala, holanda, hungara, estona (1892—1899), kataluna, flandra, finna, japana, greka, rutena, araba (1901—1907). Prof. Carlo Bourlet fondis ĉe Hachette „La Revuon“ kun konstanta kunlaborado de d-ro Zamenhof, kiu publikigis tie siajn tradukojn kaj „Lingvajn Respondojn“. Ĝi organizis konkursojn de verkistoj kaj disdonis premiojn[^10].
 
-[^9]: Tion faris jam unufoje „L' Esperantiste“ en 1903 pli malgrande. 
+[^10]: Tion faris jam unufoje „L' Esperantiste“ en 1903 pli malgrande. 
 
 Estis la tempo de l' unuaj originalaj romanoj kaj noveloj(Valienne, Sentis ktp.). Estis ankaŭ tempo de l' sistema instruado de la lingvo. Fondiĝis ekzamenaj komisionoj kaj diplomoj pri kapableco en Esperanto. En la ĉefaj landoj ekzistis jam naciaj societoj kaj pli ol kvincent esperantistaj grupoj kreiĝis en la daŭro de kvin jaroj.
 
@@ -415,9 +417,9 @@ La populara „Trio por la tria“ kolonelo Pollen, Bolingbroke Mudie kaj d-ro C
 
 Fakaj kunsidoj estis ankoraŭ pli multaj ol en Geneve. Ĉie montriĝis granda entuziasmo por tiuj novaj kampoj. Por religiaj celoj la lingvo ankaŭ ekutiliĝis. Jam en Boulogne kaj Geneve okazis Esperantaj diservoj en preĝejoj, sed en Cambridge ili fariĝis impresaj manifestacioj. La katolikoj ricevis per telegramo benon de la papo kaj la protestantoj plenigis la preĝejon de Sankta Mario, kie mil diverslandaj voĉoj recitis unuafoje en sama lingvo la preĝon „Patro nia“.
 
-La katolikoj fondis tie sian internacian Esperanto-organizon kun „Espero Katolika“ de abato Peltier kiel organo. La protestantaj pastroj kreis fratan ligon intereklezian. Jam ekzistis preĝareto katolika en Esperanto. Anglikana sekvis. Aparta kunsido decidis akceli tradukon de la Biblio. Pastro Cyprian Rust zorgis pri la Nova Testamento. Oni petis d-ron Zamenhof entrepreni la Malnovan laŭ hebrea originalo[^10].
+La katolikoj fondis tie sian internacian Esperanto-organizon kun „Espero Katolika“ de abato Peltier kiel organo. La protestantaj pastroj kreis fratan ligon intereklezian. Jam ekzistis preĝareto katolika en Esperanto. Anglikana sekvis. Aparta kunsido decidis akceli tradukon de la Biblio. Pastro Cyprian Rust zorgis pri la Nova Testamento. Oni petis d-ron Zamenhof entrepreni la Malnovan laŭ hebrea originalo[^11].
 
-[^10]: La Brita kaj Eksterlanda Biblia Societo eldonis la plenan Biblion laŭ tiul du tradukoj en 1926.
+[^11]: La Brita kaj Eksterlanda Biblia Societo eldonis la plenan Biblion laŭ tiul du tradukoj en 1926.
 
 Framasonoj kaj liberpensuloj ankaŭ havis specialajn kunvenojn kaj fondis internaciajn unuiĝojn.
 
@@ -467,17 +469,17 @@ La rolo de la komitato estas fiksita en la sekvantaj paragrafoj.
 
 8\. La Delegacion povos partopreni la reprezentantoj de societoj regule formitaj, kiuj aliĝos al la nun legata deklaracio.
 
-La du profesoroj de filozofio en Parizaj liceoj, sinjoroj Leau kaj Couturat, kiuj iniciatis la tutan aferon, intertempe publikigis rimarkindan verkon *Histoire de Langue Universelle*, en kiu ili analizis ĉiujn konatajn provojn de artefaritaj lingvoj[^11].
+La du profesoroj de filozofio en Parizaj liceoj, sinjoroj Leau kaj Couturat, kiuj iniciatis la tutan aferon, intertempe publikigis rimarkindan verkon *Histoire de Langue Universelle*, en kiu ili analizis ĉiujn konatajn provojn de artefaritaj lingvoj[^12].
 
-[^11]: Pri Esperanto ili konkludis tre favore la ĉapitron.
+[^12]: Pri Esperanto ili konkludis tre favore la ĉapitron.
 
-Dum sep jaroj la esperantistaro helpis do kun simpatio kaj sindono la varbadon de aliĝoj al la ĵus citita programo, kiu aplikis la ideojn esprimitajn en la fama artikolo pri *Esenco kaj estonteco de la ideo de Lingvo Internacia* en la *Fundamenta Krestomatio*[^12].
+Dum sep jaroj la esperantistaro helpis do kun simpatio kaj sindono la varbadon de aliĝoj al la ĵus citita programo, kiu aplikis la ideojn esprimitajn en la fama artikolo pri *Esenco kaj estonteco de la ideo de Lingvo Internacia* en la *Fundamenta Krestomatio*[^13].
 
-[^12]: Aŭtoro, seb pseŭdonimo „Unuel“, estis d-ro Zamenhof.
+[^13]: Aŭtoro, seb pseŭdonimo „Unuel“, estis d-ro Zamenhof.
 
-Estas tute certe, ke, se alta aŭtoritato kiel la Internacia Asocio de l' Akademioj estus konsentinta en 1907 ekzameni la problemon de mondlingvo kaj fari elekton, tia decido estus kaŭzinta sufiĉe fortan bruon en la tuta mondo kaj speciale en la sciencaj rondoj[^13]. Sed ne okazis tiel. Malgraŭ la petskribo de la 310 aliĝintaj societoj kaj 1250 subskriboj de aprobantaj universitataj profesoroj kaj scienculoj, la Internacia Asocio de l' Akademioj deklaris sin nekompetenta por decidi pri problemo „solvota de la vivo mem“. Tiu rifuzo, ekzameni la demandon, okazis la 29-an de Majo 1907 en Wien, kie la akademianoj kunsidis.
+Estas tute certe, ke, se alta aŭtoritato kiel la Internacia Asocio de l' Akademioj estus konsentinta en 1907 ekzameni la problemon de mondlingvo kaj fari elekton, tia decido estus kaŭzinta sufiĉe fortan bruon en la tuta mondo kaj speciale en la sciencaj rondoj[^14]. Sed ne okazis tiel. Malgraŭ la petskribo de la 310 aliĝintaj societoj kaj 1250 subskriboj de aprobantaj universitataj profesoroj kaj scienculoj, la Internacia Asocio de l' Akademioj deklaris sin nekompetenta por decidi pri problemo „solvota de la vivo mem“. Tiu rifuzo, ekzameni la demandon, okazis la 29-an de Majo 1907 en Wien, kie la akademianoj kunsidis.
 
-[^13]: D-ro Zamenhof plurfoje deklaris, ke la definitiva formo de la helpa mondlingvo — ĉu Esperanto, ĉu io alia — estas al li persone tute indiferenta, se nur ĝi estos aŭtoritate kaj universale alprenota.
+[^14]: D-ro Zamenhof plurfoje deklaris, ke la definitiva formo de la helpa mondlingvo — ĉu Esperanto, ĉu io alia — estas al li persone tute indiferenta, se nur ĝi estos aŭtoritate kaj universale alprenota.
 
 La negativa respondo ne tro surprizis la interesatojn. Jam la 9-an de Novembro 1906, respondante al letero de sinjoro Couturat, d-ro Zamenhof malesperis pri la sukceso: „... Jam delonge mi konvinkiĝis, ke la mondo kliniĝas nur antaŭ la *forto de plenumitaj faktoj*. Kiam ajn ni parolados pri la neceseco de Lingvo Internacia, la mondo ĉiam restos skeptika, la ŝovinistoj ĉiam batalos kontraŭ ni kaj la scienculoj ĉiam aŭ volos plaĉi al la ŝovinista amaso, aŭ ili fiere diros, ke la afero estas tro malmulte „scienca“ por ili! Nenia plej prudenta admonado konvinkos la mondon, ĝin konvinkos nur la forto de la faktoj. Tamen mi ripetas, ke, se malgraŭ miaj antaŭvidoj, la Delegacio povos atingi, ke la scienca mondo faru ian elekton, la meritoj de la Delegacio estos *tre kaj tre grandaj* ...“
 
@@ -493,13 +495,13 @@ Estis decidite, ke la komitato kunsidos en Parizo dum aŭtuno. Malgraŭ la famec
 
 Kiam sinjoro Couturat demandis d-ron Zamenhof — antaŭ la kunsido — pri lia opinio rilate al eblaj reformoj, la doktoro respondis, ke estus pli bone lasi tiun taskon al estonta registara aŭtoritato, se ĝi montriĝus iam necesa. Tamen se oni ne volus atendi, li rekomendis, ke oni tiam submetu proponojn al ekzameno de la Lingva Komitato. La 3-an de Oktobro 1907 li skribis al sinjoro Couturat: „Kion ajn la Delegacio decidos, mi insiste admonas Vin, estu tre singardaj pri la *formo*, sub kiu Vi publikigos vian decidon: memoru bone, ke la Delegacio devas alporti helpon al ĉio, kio ĝis nun estas akirita, sed ne *ruinigi* ĝin!“
 
-La aŭtoro de Esperanto rememoris ankoraŭ pri la detrua epoko de la lingvaj disputoj en 1893. La afero nur progresis kiam oni ĉesigis la polemikojn per negativa voĉdono de la Ligo, ĉar pri gustoj koloraj aŭ gramatikaj eĉ ne tri personoj konsentas! Tamen sinjoro Couturat havis sian planon. Antaŭ la kongreso en Cambridge li publikigis studon pri la derivado de vortoj en Esperanto, en kiu li proponis matematikan renverseblecon anstataŭ natura analogio. Li nepre deziris profiti la okazon por akceli kelkajn siajn ideojn tiurilate kaj li vigle korespondis kun reformemaj esperantistoj[^14]. Kiam la komitato kunsidis en Parizo de l' 15-a ĝis 24-a de Oktobro la situacio estis do ne tute „libera“. Diversaj traktadoj kaj eĉ polemikoj ĝin antaŭŝarĝis. Sur la tablo kuŝis eĉ tute „konkluda raporto“ de sinjoroj Leau kaj Couturat esprimanta iliajn difinitajn ideojn kaj proponojn. lli konstatis, ke la sola lingvo havanta ŝancojn je rapida disvastigo estas Esperanto pro ĝiaj kvalitoj, situacio, organizo kaj uzaj servoj. Sed ili rekomendis forigi la supersignojn, la finaĵojn *aj*, *oj*, *uj*, la tutan tabelon de korelativaj vortetoj, la akordon de l' adjektivo kaj la devigan akuzativon. Plie ili proponis montri la multnombron de substantivoj per i, ŝanĝi la regulojn de derivado, akcepti novajn radikojn anstataŭ kunmetitaj vortoj per *mal-* ktp., enkonduki novajn afiksojn necesajn al scienco, ŝanĝi multajn radikojn por atingi maksimuman internaciecon. „Ni kredas“, ili aldonis, „ke ni rajtas aserti, malgraŭ iaj bruaj deklaroj aŭ teatraj manifestacioj, ke la granda plimulto de la Esperantistoj akceptus tian modifon... kaj ke tia lingvo havus ĉiujn ŝancojn kunigi aliparte ĉiujn partianojn ĉu de la ceteraj sistemoj, ĉu de mondlingvo ĝenerale.“ Ĉirkaŭ tiu sincera iluzio kunsidis la komitato. La plimulto el ĝiaj anoj cetere ne venis. Krom la du sekretarioj partoprenis regule nur tri membroj el dekkvar, nome sinjoroj Ostwald, Baudoin de Courtenay kaj Jespersen, kiuj fariĝis respektive prezidanto kaj vicprezidantoj. Tri aliaj sin reprezentigis. Rektoro Boirac ĉeestis dufoje kaj poste sendis sinjoron Moch.
+La aŭtoro de Esperanto rememoris ankoraŭ pri la detrua epoko de la lingvaj disputoj en 1893. La afero nur progresis kiam oni ĉesigis la polemikojn per negativa voĉdono de la Ligo, ĉar pri gustoj koloraj aŭ gramatikaj eĉ ne tri personoj konsentas! Tamen sinjoro Couturat havis sian planon. Antaŭ la kongreso en Cambridge li publikigis studon pri la derivado de vortoj en Esperanto, en kiu li proponis matematikan renverseblecon anstataŭ natura analogio. Li nepre deziris profiti la okazon por akceli kelkajn siajn ideojn tiurilate kaj li vigle korespondis kun reformemaj esperantistoj[^15]. Kiam la komitato kunsidis en Parizo de l' 15-a ĝis 24-a de Oktobro la situacio estis do ne tute „libera“. Diversaj traktadoj kaj eĉ polemikoj ĝin antaŭŝarĝis. Sur la tablo kuŝis eĉ tute „konkluda raporto“ de sinjoroj Leau kaj Couturat esprimanta iliajn difinitajn ideojn kaj proponojn. lli konstatis, ke la sola lingvo havanta ŝancojn je rapida disvastigo estas Esperanto pro ĝiaj kvalitoj, situacio, organizo kaj uzaj servoj. Sed ili rekomendis forigi la supersignojn, la finaĵojn *aj*, *oj*, *uj*, la tutan tabelon de korelativaj vortetoj, la akordon de l' adjektivo kaj la devigan akuzativon. Plie ili proponis montri la multnombron de substantivoj per i, ŝanĝi la regulojn de derivado, akcepti novajn radikojn anstataŭ kunmetitaj vortoj per *mal-* ktp., enkonduki novajn afiksojn necesajn al scienco, ŝanĝi multajn radikojn por atingi maksimuman internaciecon. „Ni kredas“, ili aldonis, „ke ni rajtas aserti, malgraŭ iaj bruaj deklaroj aŭ teatraj manifestacioj, ke la granda plimulto de la Esperantistoj akceptus tian modifon... kaj ke tia lingvo havus ĉiujn ŝancojn kunigi aliparte ĉiujn partianojn ĉu de la ceteraj sistemoj, ĉu de mondlingvo ĝenerale.“ Ĉirkaŭ tiu sincera iluzio kunsidis la komitato. La plimulto el ĝiaj anoj cetere ne venis. Krom la du sekretarioj partoprenis regule nur tri membroj el dekkvar, nome sinjoroj Ostwald, Baudoin de Courtenay kaj Jespersen, kiuj fariĝis respektive prezidanto kaj vicprezidantoj. Tri aliaj sin reprezentigis. Rektoro Boirac ĉeestis dufoje kaj poste sendis sinjoron Moch.
 
-[^14]: Insiste roformema estis d-ro Javal, kiu ĵus mortis antaŭ la kongreso en Cambridge. Li proponis en 1906 al d-ro Zamenhof grandan kapitalon por veni Parizon kaj gvidi lingvajn diskutojn tie. D-ro Zamanhof rifuzis por si mem sed konsentis proponi tian diskuton al la Lingva Komitato. Rektoro Boirac tion malkonsilis.
+[^15]: Insiste roformema estis d-ro Javal, kiu ĵus mortis antaŭ la kongreso en Cambridge. Li proponis en 1906 al d-ro Zamenhof grandan kapitalon por veni Parizon kaj gvidi lingvajn diskutojn tie. D-ro Zamanhof rifuzis por si mem sed konsentis proponi tian diskuton al la Lingva Komitato. Rektoro Boirac tion malkonsilis.
 
-Regis atmosfero malkuraĝiga, sed la iniciatintoj opiniis, ke oni tamen profitu la okazon por fini la aferon. Oni invitis aŭtorojn de diversaj mondlingvoj por defendi siajn projektojn antaŭ la komitato. D-ro Nicolas klarigis pri *Spokil*, sinjoro Bolak pri *Lingvo Blua*, sinjoro Spitzer pri *Parla*. Oni ankaŭ invitis sinjoron Monseur por subteni *Idiom Neutral*, sed li malpli defendis ĝin ol fervore kritikis Esperanton, konstatas prof. Jespersen en sia rakonto[^15].
+Regis atmosfero malkuraĝiga, sed la iniciatintoj opiniis, ke oni tamen profitu la okazon por fini la aferon. Oni invitis aŭtorojn de diversaj mondlingvoj por defendi siajn projektojn antaŭ la komitato. D-ro Nicolas klarigis pri *Spokil*, sinjoro Bolak pri *Lingvo Blua*, sinjoro Spitzer pri *Parla*. Oni ankaŭ invitis sinjoron Monseur por subteni *Idiom Neutral*, sed li malpli defendis ĝin ol fervore kritikis Esperanton, konstatas prof. Jespersen en sia rakonto[^16].
 
-[^15]: Historio di nia Linguo.
+[^16]: Historio di nia Linguo.
 
 Prof. Jespersen mem prezentis gramatikan projekton laŭ kiu *-o* montras viran kaj *-a* inan sekson: *frato*, *frata*, multnombre *fratoi*, *fratai*. Prof. Baudoin de Courtenay prezentis raporton favoran al fonetika alfabeto. Pri *Esperanto* klarigis la sendito de d-ro Zamenhof, sinjoro L. de Beaufront. Antaŭ ol sinjoro Couturat komencis proponi siajn ŝanĝojn, rektoro Boirac prezentis noton de kelkaj membroj de la Delegacio opiniantaj, ke la Komitato, laŭstatute rajtis nur elekti unu lingvon, sed ne ĝin transformi aŭ krei novan. Pri tiu jura punkto estis decidite diskuti pli poste.
 
@@ -633,9 +635,9 @@ La Akademio esploras la demandojn, kiujn ĝi mem proponas al si kaj tiujn prezen
 
 Tiamaniere organiziĝis la lingva aŭtoritato, kiu heredis de d-ro Zamenhof la respondecon pri la kontrolo de l' unueco en la uzado kaj progresado de Esperanto.
 
-Ĉar la unueco de la lingvo dependas ne nur de la uzado, sed ankaŭ de la instruado, la Dresdena kongreso diskutis la demandon pri internaciaj ekzamenoj kaj diplomoj por instruantoj de la lingvo. Por interesa diskuto, la kongreso aprobis la fondon de Internacia Instituto de Esperanto[^16] por tiu celo kaj resendis al ĝi la tutan aferon interkonsente kun UEA kaj la Asocio de Instruistoj.
+Ĉar la unueco de la lingvo dependas ne nur de la uzado, sed ankaŭ de la instruado, la Dresdena kongreso diskutis la demandon pri internaciaj ekzamenoj kaj diplomoj por instruantoj de la lingvo. Por interesa diskuto, la kongreso aprobis la fondon de Internacia Instituto de Esperanto[^17] por tiu celo kaj resendis al ĝi la tutan aferon interkonsente kun UEA kaj la Asocio de Instruistoj.
 
-[^16]: La „Internacian Instituton de Esperanto por internacia servado de instruado kaj organizo de normalaj lernejoj kaj diplomoj“ mi fondis en Decembro 1907 en New York dum propaganda vojaĝo en usonaj lernejoj kaj universitatoj. En “1908 ĝi instalis propran sidejon en Geneve dank' al malavara subteno de sinjorino Milsom.
+[^17]: La „Internacian Instituton de Esperanto por internacia servado de instruado kaj organizo de normalaj lernejoj kaj diplomoj“ mi fondis en Decembro 1907 en New York dum propaganda vojaĝo en usonaj lernejoj kaj universitatoj. En “1908 ĝi instalis propran sidejon en Geneve dank' al malavara subteno de sinjorino Milsom.
 
 Dum la Kvina kongreso en Barcelono 1909 d-ro Zamenhof prezidis la publikan kunsidon de l' Instituto kaj poste okazis ĉiutagaj ekzamenoj sub kontrolo de sinjoroj Cart, Corret kaj sinjorino Marie Hankel pri gramatiko, sinjoroj Ostrovski, Samuel Meyer, Kiihnl pri literaturo, Hodler kaj Rousseau pri historio kaj organizaĵoj de Esperantismo, Mann, Blaise kaj Privat pri metodoj de instruado.
 
@@ -689,9 +691,9 @@ Temis pri „rajtigitaj delegitoj“. Post abunda polemikado estis fine decidite
 
 Dum la Oka universala kongreso en Krakovo 1912 pli paca diskuto okazis, kaj oni akceptis ordan regularon por la kunsidoj. La jubilean signifon de tiu kongreso priskribas sekvanta ĉapitro. Dum ĝi d-ro Zamenhof demetis definitive sian rolon kiel ĉefo de la movado. Li anoncis, ke li fariĝos de nun simpla privata esperantisto kaj ne plu parolados ĉe la solenaj malfermoj por ne ĝeni la Esperanto-movadon per siaj personaj ideoj: „Nun, kiam nia ideo estas jam sufiĉe forta, estas necese, ke ĝi fine fariĝu absolute libera, ne sole libera de ĉiuj personaj dekretoj, sed ankaŭ de ĉia efektiva aŭ ŝajna persona influo.“
 
-Por tio d-ro Zamenhof havis duoblan motivon: Unuflanke li volis mem liberiĝi, por ke oni ne ligu oficiale lian homaranan tendencon kun Esperanto, due, ĉar li esprimis publike sian opinion pri internaj organizaj demandoj kaj timis, ke multaj ne kuraĝas kritiki lian vidpunkton tute senĝene kaj laŭplaĉe[^17], kvankam „Lingvo Internacia“ tion faris sufiĉe energie em siaj polemikoj.
+Por tio d-ro Zamenhof havis duoblan motivon: Unuflanke li volis mem liberiĝi, por ke oni ne ligu oficiale lian homaranan tendencon kun Esperanto, due, ĉar li esprimis publike sian opinion pri internaj organizaj demandoj kaj timis, ke multaj ne kuraĝas kritiki lian vidpunkton tute senĝene kaj laŭplaĉe[^18], kvankam „Lingvo Internacia“ tion faris sufiĉe energie em siaj polemikoj.
 
-[^17]: En la broŝuro „Deklaracio pri Homaranismo“ d-ro Zamenhof klarigis kiel privata persono siajn ideojn pri intergenta kaj interreligia alproksimiĝo de bonvolaj homoj. Vidu „Vivo de Zamenho“. La esperantista gazetaro ne multe priparolis ĝin. Dume lia letero pri organizaj problemoj faris dekoble pli da bruo. En ĝi li petis, ke la regulo ne fariĝu en Esperantujo: „Kiu plej laŭte krias, tiu estas prava“ kaj li konsilis aranĝon de voĉdona ebleco por decidi pri komunaj aferoj. (Pola Esperantisto, Junio 1912).
+[^18]: En la broŝuro „Deklaracio pri Homaranismo“ d-ro Zamenhof klarigis kiel privata persono siajn ideojn pri intergenta kaj interreligia alproksimiĝo de bonvolaj homoj. Vidu „Vivo de Zamenho“. La esperantista gazetaro ne multe priparolis ĝin. Dume lia letero pri organizaj problemoj faris dekoble pli da bruo. En ĝi li petis, ke la regulo ne fariĝu en Esperantujo: „Kiu plej laŭte krias, tiu estas prava“ kaj li konsilis aranĝon de voĉdona ebleco por decidi pri komunaj aferoj. (Pola Esperantisto, Junio 1912).
 
 En Bern, dum la Naŭa kongreso en 1913 li do sidis kun edzino en la partero inter ĉiuj ceteraj kaj ĝuis la revitan trankvilecon kaj malŝarĝecon. Sed la kongresoj perdis lian impresan altigan inspiron en la inaŭgura ceremonio. En Bern oni perdis multan tempon pro diskuto por scii ĉu la rajtigitaj delegitoj sidos publike aŭ ne. Fine estis decidite, ke ili ekzamenos proponojn kaj poste submetos siajn rekomendojn al la voĉdono de la tuta kongreso. La organiza komisiono estis likvidata. Dume generalo Sebert kaj d-ro Arnhold starigis projekton de unuiĝo de la naciaj societoj. La Centra Oficejo en Parizo proponis kunordigi ĉiujn ĝisnunajn regularojn, por ke la esperantistaro povu trovi sian vojon inter la sufiĉe komplika vico da kreitaj organoj: lingvaj (Lingva Komitato kaj Akademio), kongresaj (Konstanta Kongresa Komitato kaj Loka OrganizaKomitato), administraj (Administra Komitato), propagandaj (Unuiĝo de naciaj societoj), centraj kaj sekretariaj (Centra Oficejo, Sekcioj A kaj B), voĉdonaj (Kongresaj rajtigitaj Delegitoj). Kun granda pacienco generalo Sebert klopodis tion realigi per eldono de la Fundamentaj Dokumentoj, sed ne ĉiuj naciaj societoj aliĝis al la Unuiĝo, kaj UEA ne konsentis al sia ekskludo el la kontrolaj organoj. Depost Augsburg en 1908, ĝi ja devis ĉiam havi sian apartan kongreson samloke dum la ĝenerala kaj ne rajtis partopreni en la komuna administrado. Hodler plendis pri tio kaj ankaŭ pri la fakto, ke novaj oficialaĵoj kreiĝis aŭ ŝanĝiĝis inter ĉiu kongreso.
 
@@ -713,9 +715,9 @@ Efektive la lingva unueco — la ĉefa — multe kreskis per la internaciaj serv
 
 Skribe, la kampo estis ankaŭ internacia kaj la unuecon akcelis la komunaj gazetoj kaj literaturaj verkoj. En tiu epoko regis la stilan ĝardenon antaŭ ĉio la Varsovianoj. Krom d-ro Zamenhof-on oni plej ŝatis legi la versaĵojn de Grabowski aŭ de Leo Belmont kaj la mirindajn tradukojn de Kabe, la plej lerta stilisto (vidu la ĉapitron pri „Literaturo“).
 
-En Aŭgusto 1912 la Centra Oficejo registris entute 1837 esperantajn librojn, interalie 316 tradukaĵojn[^18], 78 originalojn literaturajn kaj 29 antologiojn aŭ kresto-matiojn. Pri sciencaj aŭ fakaj temoj estis klasigitaj 115. Organizaj dokumentoj, protokoloj, raportaroj, jarlibroj ktp. nombris pli ol ducent. Vortaroj atingis 114 kaj lernolibroj 456 en 31 lingvoj (rusa 57, franca 54, angla 49, germana 41, hispana 33, ĉeĥa 25, pola 25, hungara 19, itala 18 ktp., rumana, armena, bulgara, ĉina, dana, estona, finna, greka, hebrea, holanda, islanda, japana, kartvela, kataluna, kimra, kroata, latva, litova, norvega, portugala, slovaka, sveda, ukrajna).
+En Aŭgusto 1912 la Centra Oficejo registris entute 1837 esperantajn librojn, interalie 316 tradukaĵojn[^19], 78 originalojn literaturajn kaj 29 antologiojn aŭ kresto-matiojn. Pri sciencaj aŭ fakaj temoj estis klasigitaj 115. Organizaj dokumentoj, protokoloj, raportaroj, jarlibroj ktp. nombris pli ol ducent. Vortaroj atingis 114 kaj lernolibroj 456 en 31 lingvoj (rusa 57, franca 54, angla 49, germana 41, hispana 33, ĉeĥa 25, pola 25, hungara 19, itala 18 ktp., rumana, armena, bulgara, ĉina, dana, estona, finna, greka, hebrea, holanda, islanda, japana, kartvela, kataluna, kimra, kroata, latva, litova, norvega, portugala, slovaka, sveda, ukrajna).
 
-[^18]: El lingvoj franca 75, angla 37, rusa 35, germana 34, pola 33, hispana 13, armena 10 ktp.
+[^19]: El lingvoj franca 75, angla 37, rusa 35, germana 34, pola 33, hispana 13, armena 10 ktp.
 
 Jam en 1911 la Germana Akademia Esperantista Ligo eldonis la plenan katalogon de la biblioteko de esperantista kolektisto Georg Davidov en la rusa urbo Saratov. Ĝi citis pli ol kvarmil titolojn, sed entenis gazetkolektojn, broŝuretojn, prospektojn komercajn aŭ turismajn kaj ĉiuspecajn presaĵojn, inkluzive kvindek aliajn katalogojn de Esperanto-libristoj. El tiu rimarkinda listo montriĝas, kiom fervore la Esperantistoj fondis gazetojn eĉ se nur por ses monatoj aŭ unu jaro. Dum oni kalkulis kvindekon da regulaj, seriozaj revuoj, la katalogo Davidov montras 350 titolojn de iam fonditaj gazetoj kaj bultenoj societaj aŭ grupaj ĝis 1911. Se ĝi ne pruvis multan konstantecon, ĝi signis almenaŭ vivon kaj diversnaciecon, ĉar la listo entenas 48 landojn de la kvin kontinentoj, inkluzive Japanujo, Ĉinujo, Filipinaj Insuloj, Aŭstralio kaj Alĝerio.
 
@@ -751,9 +753,9 @@ El ambaŭflankaj tranŝeoj venis al Hodler emociaj aproboj de homoj kunsentantaj
 
 En kelkaj landoj, interalie en Germanujo kaj Francujo, aperis militaj propagandiloj en Esperanto pravigantaj la nacian vidpunkton. Kelkfoje registara subteno, alifoje privataj iniciatoj tion ebligis.
 
-Pli interesa estis la disvastigo de vera Esperantismo en la militkaptitejoj. Kiam sinjoro Justin Godart, honora membro de UEA en Lyon, estis ŝtata subsekretario de la saneca fako en 1916, li cirkulere rekomendis al la militistaj flegistoj la lernon de Esperanto kaj mendis por disdono 10000 ekzemplerojn de la lernlibreto Bayol Esperanto-Ruĝa Kruco. Aliflanke la Tutmonda Komitato de YMCA[^19] disdonigis milojn da Esperanto-lernolibretoj al militkaptitoj en diversaj landoj.
+Pli interesa estis la disvastigo de vera Esperantismo en la militkaptitejoj. Kiam sinjoro Justin Godart, honora membro de UEA en Lyon, estis ŝtata subsekretario de la saneca fako en 1916, li cirkulere rekomendis al la militistaj flegistoj la lernon de Esperanto kaj mendis por disdono 10000 ekzemplerojn de la lernlibreto Bayol Esperanto-Ruĝa Kruco. Aliflanke la Tutmonda Komitato de YMCA[^20] disdonigis milojn da Esperanto-lernolibretoj al militkaptitoj en diversaj landoj.
 
-[^19]: YMCA = Young Men's Christian Association (Junula Kristana Asocio).
+[^20]: YMCA = Young Men's Christian Association (Junula Kristana Asocio).
 
 Tiuj malfeliĉaj junuloj, enfermitaj kiel brutaro inter bariloj, sopiris je ia interesa allogaĵo, kiu forgesigas malsaton kaj hejmosopiro. Hodler rekomendis al delegitoj de UEA viziti tiujn lokojn se permeso ebliĝas kaj vidi ĉu ne troviĝas iu perdita samideano. En diversaj lokoj ili faris tion kaj ĝoja interfratiĝo okazis. En aliaj tiaj malliberejoj, unu sola kaptito instruis la lingvon al centoj da ceteraj, kiuj kopiis vortojn kaj regulojn unuj de aliaj. Tio interalie okazis en Siberio, kie japanaj generaloj eĉ subtenis tiun lernadon. Esperantistaj rondoj fondiĝis. Oni kantis la himnon kaj gaje interparolis la lingvon inter plej-diversgentanoj.
 
@@ -787,19 +789,19 @@ Tiam homa penso kaj ekonomio kiel bluaj papilioj aŭ oraj abeloj flugantaj super
 
 Antaŭ la milito, Esperantismo estis belega revaĵo. Post la milito ĝi jam aperis kiel urĝa bezonaĵo. La restintaj fideluloj, eta gruparo en la vasta mondo, tion klare sentis. Se ili nur povus retrovi iom da forto, iom da kunligeco por repreni la tutan aferon vigle! Eĉ inter ili regis distancoj. Naciaj movadoj restis enfermitaj en siaj landlimoj aŭ eĉ uzis la lingvon por ŝtata propagando.
 
-En Parizo la Centra Oficejo devis fariĝi antaŭ ĉio franca pro milita neceso kaj pro fermo de landlimoj. Kiam ĝi volis kunvoki restarigan kunvenon internacian la 21-an de Septembro 1919 neniu sukcesis veni Parizon krom du Britoj, sinjoroj Warden kaj Butler. Ne-aliancanoj kompreneble ne rajtis kaj eĉ neŭtralanoj ne povis jam libere vojaĝi. Eŭropo estis ankoraŭ dividita en fermitaj militkampoj kun ĉiuspecaj malpermesoj al gazetoj, libroj, korespondo, ktp. Ĉiujn naciojn povis atingi nur UEA kun sia centro sur neŭtrala teritorio[^20]. Urĝis ia interkonsento. Hodler, malsana en svisa montloko, tion volis ankoraŭ entrepreni. Li korespondis kun generalo Sebert, proponis al li — sensukcese — la prezidantecon de UEA, urĝe akcentis la utilon ŝpari kaj unuigi fortojn. Sed ĝuste tiam, la 31-an de Marto 1920, rapida morto forprenis lin, kiu ankoraŭ tenis la lastajn fadenojn en mano. Sur sia mortlito Hodler krajone ekskribis kelkajn vortojn esprimante la deziron, ke oni realigu tiun unuiĝon de ĉiuj fortoj en komuna centro. Lia lasta penso, kiel la tuta vivo, estis por la afero[^21].
+En Parizo la Centra Oficejo devis fariĝi antaŭ ĉio franca pro milita neceso kaj pro fermo de landlimoj. Kiam ĝi volis kunvoki restarigan kunvenon internacian la 21-an de Septembro 1919 neniu sukcesis veni Parizon krom du Britoj, sinjoroj Warden kaj Butler. Ne-aliancanoj kompreneble ne rajtis kaj eĉ neŭtralanoj ne povis jam libere vojaĝi. Eŭropo estis ankoraŭ dividita en fermitaj militkampoj kun ĉiuspecaj malpermesoj al gazetoj, libroj, korespondo, ktp. Ĉiujn naciojn povis atingi nur UEA kun sia centro sur neŭtrala teritorio[^21]. Urĝis ia interkonsento. Hodler, malsana en svisa montloko, tion volis ankoraŭ entrepreni. Li korespondis kun generalo Sebert, proponis al li — sensukcese — la prezidantecon de UEA, urĝe akcentis la utilon ŝpari kaj unuigi fortojn. Sed ĝuste tiam, la 31-an de Marto 1920, rapida morto forprenis lin, kiu ankoraŭ tenis la lastajn fadenojn en mano. Sur sia mortlito Hodler krajone ekskribis kelkajn vortojn esprimante la deziron, ke oni realigu tiun unuiĝon de ĉiuj fortoj en komuna centro. Lia lasta penso, kiel la tuta vivo, estis por la afero[^22].
 
-[^20]: UEA-oficejo tiam sidis en Bern sub gvidado de sinjoro Stettler.
+[^21]: UEA-oficejo tiam sidis en Bern sub gvidado de sinjoro Stettler.
 
-[^21]: Testamente Hodler lasis al UEA sumon sufiĉan por pagi salajron de unu oficisto per la interezoj aŭ kovri deficitojn ĝis 4000 svisaj frankoj, kiujn li antaŭe pagis el propra poŝo post la morto de sia patro.
+[^22]: Testamente Hodler lasis al UEA sumon sufiĉan por pagi salajron de unu oficisto per la interezoj aŭ kovri deficitojn ĝis 4000 svisaj frankoj, kiujn li antaŭe pagis el propra poŝo post la morto de sia patro.
 
-La bato estis terura por la esperantistaro, kiu jam perdis tiom da bonaj gvidantoj. Juna, saĝa kaj energia ĉefo malaperis ĝuste en la plej bezona tempo. Sed lia verko devis nepre vivi. En Bern sinjoro Stettler daŭris kuraĝe la gvidadon de la UEA-centro en Bern kun la helpo de sinjoro Jakob. En Parizo generalo Sĉbert, malgraŭ siaj okdek jaroj, klopodis reorganizi la Centran Oficejon kaj retrovi la perditajn kontaktojn. En somero 1920, la unua postmilita kongreso kunvenigis kvarcent esperantistojn en Hago, en la neŭtrala Nederlando. Ĝi estis impresa renkontiĝo en la fama Ridderzaal[^22]. Ses registaroj sin reprezentigis[^23]. Post sep jaroj retroviĝis fine la pioniroj de la movado por premi al si la manojn kaj urĝe interkonsiliĝi. Sed, ho ve, la plimulto mankis. Ĉie mortoj, malaperoj, forestoj. Venis cent Britoj, sed nur kvin Francoj. Tamen la kongreso kuraĝe laboris. Noblaj homoj, gesinjoroj Isbrucker, gvidis ĝin al pozitiva decidemo. El Italujo energia maroficiro Alessio pledis por radikala reorganizo de la tuta movado. Li proponis malgrandan centran komitaton de „sav' urĝo“. Sinjoro Stettler prezentis zorge prilaboritan statuton novan por UEA. Post akurata ekzameno en tri kunsidoj, la kunveno ĝin akceptis per baloto de la delegitoj. Vigle diskutis la kongreso pri la stato de l' aferoj, disfalo de malnovaj institucioj, bezono je koncentrigo kaj ŝparo, sopiro al forta unueca antaŭenpuŝo de Esperantismo en la mondo. Fine la kongreso elektis organizan komisionon[^24] por prepari solvon kaj prezenti ĝin al la esperantistaro, rekomendante tutmondan organizon de individuaj esperantistoj, do sur bazo de UEA.
+La bato estis terura por la esperantistaro, kiu jam perdis tiom da bonaj gvidantoj. Juna, saĝa kaj energia ĉefo malaperis ĝuste en la plej bezona tempo. Sed lia verko devis nepre vivi. En Bern sinjoro Stettler daŭris kuraĝe la gvidadon de la UEA-centro en Bern kun la helpo de sinjoro Jakob. En Parizo generalo Sĉbert, malgraŭ siaj okdek jaroj, klopodis reorganizi la Centran Oficejon kaj retrovi la perditajn kontaktojn. En somero 1920, la unua postmilita kongreso kunvenigis kvarcent esperantistojn en Hago, en la neŭtrala Nederlando. Ĝi estis impresa renkontiĝo en la fama Ridderzaal[^23]. Ses registaroj sin reprezentigis[^24]. Post sep jaroj retroviĝis fine la pioniroj de la movado por premi al si la manojn kaj urĝe interkonsiliĝi. Sed, ho ve, la plimulto mankis. Ĉie mortoj, malaperoj, forestoj. Venis cent Britoj, sed nur kvin Francoj. Tamen la kongreso kuraĝe laboris. Noblaj homoj, gesinjoroj Isbrucker, gvidis ĝin al pozitiva decidemo. El Italujo energia maroficiro Alessio pledis por radikala reorganizo de la tuta movado. Li proponis malgrandan centran komitaton de „sav' urĝo“. Sinjoro Stettler prezentis zorge prilaboritan statuton novan por UEA. Post akurata ekzameno en tri kunsidoj, la kunveno ĝin akceptis per baloto de la delegitoj. Vigle diskutis la kongreso pri la stato de l' aferoj, disfalo de malnovaj institucioj, bezono je koncentrigo kaj ŝparo, sopiro al forta unueca antaŭenpuŝo de Esperantismo en la mondo. Fine la kongreso elektis organizan komisionon[^25] por prepari solvon kaj prezenti ĝin al la esperantistaro, rekomendante tutmondan organizon de individuaj esperantistoj, do sur bazo de UEA.
 
-[^22]: Kavalirsalono.
+[^23]: Kavalirsalono.
 
-[^23]: Nederlanda, Hispana, Itala, Bulgara, Ĉeĥoslovaka, Pola.
+[^24]: Nederlanda, Hispana, Itala, Bulgara, Ĉeĥoslovaka, Pola.
 
-[^24]: Sinjoroj Page, Arnhold, Poncet, du reprezentantoj de Centra Oficejo kaj, du de UEA.
+[^25]: Sinjoroj Page, Arnhold, Poncet, du reprezentantoj de Centra Oficejo kaj, du de UEA.
 
 Dum la posta jaro Esperanto rapide antaŭenmarŝis, speciale en Germanujo kaj Ĉeĥoslovakio. Fondiĝis centoj da grupoj. Ĉie multiĝis kursoj. Okcidente kaj oriente Esperanto gajnis kelkajn gravajn sukcesojn.
 
@@ -823,9 +825,9 @@ Laŭ tiu rekomendo, la nova statuto de la hispana Ruĝa Kruco, adoptita sekvinta
 
 Depost sia reinstalo en Geneve, samloke kun la interŝtataj organizaĵoj, UEA povis multigi tiajn intervenojn kaj inviti delegitojn al sia oficejo por ilin dokumenti. Tiamaniere ĝi turnis sin laŭvice al Ruĝa Kruco, al Ligo de Nacioj kaj al Internacia Laboroficejo. Ĉiujn tri ĝi invitis sendi reprezentantojn al la XIII-a Universala kongreso en Praha dum Aŭgusto 1922. La Ligo delegis sian vicsekretarion ĝeneralan d-ron Inazo Nitobe, eksrektoron de la universitato en Tokio kun du kunlaborantoj. „La Laboroficejo sendis sinjoron Blumel kaj la Ruĝa Kruco sinjoron Horner.
 
-La Praha kongreso estis grandioza manifestacio de la progreso de Esperanto dum la antaŭa jaro. Pli ol dumil adeptoj alvenis el 35 landoj. Dek registaroj sendis reprezentantojn[^25]. La ĉeĥoslovaka ministro de instruado malfermis mem la kongreson kaj la eksterlanda ministro Beneŝ partoprenis komitatan vespermanĝon de UEA kun la oficialaj reprezentantoj. Tie, kaj per publika letero, li deklaris: „Mi certigas vin, ke ideon pri Esperanto mi ĉiufoje subtenados“. Ankaŭ li kaj d-ro Nitobe laŭdis la „Internan ideon“ de la movado, tiom necesan por rekonstrui pacan homaron.
+La Praha kongreso estis grandioza manifestacio de la progreso de Esperanto dum la antaŭa jaro. Pli ol dumil adeptoj alvenis el 35 landoj. Dek registaroj sendis reprezentantojn[^26]. La ĉeĥoslovaka ministro de instruado malfermis mem la kongreson kaj la eksterlanda ministro Beneŝ partoprenis komitatan vespermanĝon de UEA kun la oficialaj reprezentantoj. Tie, kaj per publika letero, li deklaris: „Mi certigas vin, ke ideon pri Esperanto mi ĉiufoje subtenados“. Ankaŭ li kaj d-ro Nitobe laŭdis la „Internan ideon“ de la movado, tiom necesan por rekonstrui pacan homaron.
 
-[^25]: Belga, Finna, Hispana, Itala, Nederlanda, Litova, Saksa, Ukrajna, Jugoslava, Ĉeĥoslovaka.
+[^26]: Belga, Finna, Hispana, Itala, Nederlanda, Litova, Saksa, Ukrajna, Jugoslava, Ĉeĥoslovaka.
 
 Tuta Mezeŭropo tiun ĉi fojon aŭdis pri Esperanto dum la somero; ĉar vojaĝis ne nur la kongresanoj, sed iliaj familianoj kaj miloj da ceteraj partoprenantoj ĉe antaŭfestoj aŭ postaj kunvenoj en Berlin, Dresden, Wien, Budapest, Graz, Trento, Reichenberg. Urbojn kaj staciojn trapasis dekoj da internaciaj karavanoj parolante Esperanton. Neniam antaŭe la sono de la lingvo tiom aŭdiĝis en stratoj, en stacidomoj, en vagonoj. Ĉie pendis flagoj, ĉie brilis steletoj. Ĉe la landlimoj sindone deĵoris UEA-delegitoj kun verda brakbando. Eĉ fervojistoj respondis en Esperanto.
 
@@ -917,9 +919,9 @@ Kvar monatojn post la Ĝeneva konferenco, la XIV-a Universala Kongreso en somero
 > Ŝvitpene semitaj plenfruktaj kamparoj, \
 > Popol' laborema en long' turmentad'.
 
-Malgraŭ la granda distanco, pli ol 700 eksterlandanoj vojaĝis Finnlandon kaj 1200 homoj partoprenis la XIV-an kongreson. La unuan semajnon de Aŭgusto, ĉiuj vaporŝipoj el Hull, el Stettin, el Libeck kaj Tallin alportis esperantistajn delegitojn mirantajn pri la beleco de la lando kaj la modela organizo de l' kongreso. Specialaj poŝtejo, telegrafejo, banko, restoracio, informejo kaj librejo admirinde funkciadis en Esperanto. Laŭ arta vidpunkto, ĉio estis plej bone aranĝita por konigi al la gastoj iom pri la muziko, literaturo kaj popolkutimoj de Finnlando. Koncertoj, teatraĵo, prelegoj estis instruoplenaj. Eĉ profesoro Setala[^26], la konata lingvosciencisto, prelegis en Esperanto pri la mondlingva problemo. Ministro de edukado malfermis la kongreson. Prezidanto de respubliko invitis al akcepto la delegitojn. Hungara poeto Kalocsay deklamis sian faman „runon“ en Esperanto laŭ inspiro el la malnova finna legendo:
+Malgraŭ la granda distanco, pli ol 700 eksterlandanoj vojaĝis Finnlandon kaj 1200 homoj partoprenis la XIV-an kongreson. La unuan semajnon de Aŭgusto, ĉiuj vaporŝipoj el Hull, el Stettin, el Libeck kaj Tallin alportis esperantistajn delegitojn mirantajn pri la beleco de la lando kaj la modela organizo de l' kongreso. Specialaj poŝtejo, telegrafejo, banko, restoracio, informejo kaj librejo admirinde funkciadis en Esperanto. Laŭ arta vidpunkto, ĉio estis plej bone aranĝita por konigi al la gastoj iom pri la muziko, literaturo kaj popolkutimoj de Finnlando. Koncertoj, teatraĵo, prelegoj estis instruoplenaj. Eĉ profesoro Setala[^27], la konata lingvosciencisto, prelegis en Esperanto pri la mondlingva problemo. Ministro de edukado malfermis la kongreson. Prezidanto de respubliko invitis al akcepto la delegitojn. Hungara poeto Kalocsay deklamis sian faman „runon“ en Esperanto laŭ inspiro el la malnova finna legendo:
 
-[^26]: Patro de Vilho Setilŝ, la ĉeforganizanto de la kongreso. Privatll.
+[^27]: Patro de Vilho Setilŝ, la ĉeforganizanto de la kongreso. Privatll.
 
 > Vokas voĉ' de Veinemdinen, \
 > Vibras vok' en vaga vento, \
@@ -946,9 +948,9 @@ La movado vivis sur du fortaj bazoj: unuflanke la naciaj propagandaj societoj la
 
 Estis konsentite, laŭ peto de sinjoro Chavet, ke generalo Sebert komence prezidos kaj organizos la reprezentantaron de la naciaj societoj el la Centra Oficejo en Parizo. Ankaŭ por ne detrui ekzistantan malnovan K. K. K. (Konstantan Kongresan Komitaton), oni farus el ĝi spertulan komisionon, al kiu la Centra Komitato delegus la detalan organizon de la kongresoj.
 
-Laŭ tiuj principoj, estis redaktita la „Kontrakto de Helsinki“, ĝin aprobis la organiza komisiono, elektita en Hago, kaj aklamis entuziasme la tuta kongreso[^27]. Kiel tuja rezultato, la UEA-kunveno decidis ĉesigi apartajn kunsidojn kaj de nun fondiĝi en la ĝeneralajn de la kongreso. Generalo Sebert kaj sinjoro Chavet estis elektitaj kiel provizora estraro de K. R. de naciaj societoj kaj la ĝisnuna organiza komisiono estis petata funkcii kiel Centra Komitato (C. K.), ĝis UEA kaj naciaj societoj elektos la ses antaŭviditajn membrojn.
+Laŭ tiuj principoj, estis redaktita la „Kontrakto de Helsinki“, ĝin aprobis la organiza komisiono, elektita en Hago, kaj aklamis entuziasme la tuta kongreso[^28]. Kiel tuja rezultato, la UEA-kunveno decidis ĉesigi apartajn kunsidojn kaj de nun fondiĝi en la ĝeneralajn de la kongreso. Generalo Sebert kaj sinjoro Chavet estis elektitaj kiel provizora estraro de K. R. de naciaj societoj kaj la ĝisnuna organiza komisiono estis petata funkcii kiel Centra Komitato (C. K.), ĝis UEA kaj naciaj societoj elektos la ses antaŭviditajn membrojn.
 
-[^27]: Teksto de la kontrakto de Helsinki: Prezentita de la Organiza Komisiono, akceptita de la XIII-a Kongreso 1921 en Helsinki kaj revizita (art. IV) de K.R. kaj UEA en 1924. En la originala teksto 1921 staris K. K. K. anstataŭ L. K. K.
+[^28]: Teksto de la kontrakto de Helsinki: Prezentita de la Organiza Komisiono, akceptita de la XIII-a Kongreso 1921 en Helsinki kaj revizita (art. IV) de K.R. kaj UEA en 1924. En la originala teksto 1921 staris K. K. K. anstataŭ L. K. K.
 
 La kongreso sendis gratultelegramojn al forestantaj sinjoroj Page, Sebert, Stettler, kaj la prezidanto sinjoro von Frenckell elokvente akcentis la gravecon de l' rezultato: „Fine la unueco estas atingita. Sendube ĝi helpos revigligi la laboron de la naciaj societoj, kiel ĝi ankaŭ grave influos la internacian movadon. Nova folio en la historia libro de UEA estas komencata.“
 
@@ -1040,9 +1042,9 @@ Kvina kunsido estis dediĉita al uzo de Esperanto en turismo. Raportis la delegi
 
 Jam antaŭ la milito, la turismaj centroj de Praha kaj Brno kaj la Komerca Ĉambro de Los Angeles sendis prelegistojn por paroladi eksterlande en Esperanto pri siaj regionoj. La vojaĝoj de sinjoro Parrish kaj sinjoro Pitlik havis grandan sukceson. Ankaŭ la Aŭstria Fervojaro kaj la kompanio Paris—Orleans eldonis belajn albumojn en la lingvo. Depost la milito, multaj urboj publikigis gvidlibron en Esperanto, entute pli ol 400. La Iniciata Sindikato Turisma de Grenoble kaj Dauphine skribis pri la sia: „Ni konstatis la utilecon de tiu libro, ĉar preskaŭ ĉiutage ni ricevas informpetojn en Esperanto el la plej diversaj landoj.“ Montriĝis jam sufiĉe vasta spertaro en tiu fako. Pluraj delegitoj raportis pri grandaj karavanoj gviditaj en Esperanto, ĉu turismaj, ĉu pilgrimaj (katolikaj).
 
-En la fina kunsido estis adoptitaj ĉiuj rezolucioj kaj rekomendoj, sed la plej grava estis la raportaro pri ĉiuj kolektitaj faktoj kaj la impona listo de aliĝintaj komercaj ĉambroj. Poste multaj aliaj sendis sian aprobon de la rezolucioj al la Itala Komerca Ĉambro por Svislando. Dum la tuta konferenco okazis ĉiutage, post la kunsidoj, varborso inter diverslandaj komercistoj, kiuj interŝanĝis ofertojn kaj mendojn uzante nur Esperanton[^28].
+En la fina kunsido estis adoptitaj ĉiuj rezolucioj kaj rekomendoj, sed la plej grava estis la raportaro pri ĉiuj kolektitaj faktoj kaj la impona listo de aliĝintaj komercaj ĉambroj. Poste multaj aliaj sendis sian aprobon de la rezolucioj al la Itala Komerca Ĉambro por Svislando. Dum la tuta konferenco okazis ĉiutage, post la kunsidoj, varborso inter diverslandaj komercistoj, kiuj interŝanĝis ofertojn kaj mendojn uzante nur Esperanton[^29].
 
-[^28]: Laŭ iniciato de la rumana industriulo Fischer.
+[^29]: Laŭ iniciato de la rumana industriulo Fischer.
 
 En Marto 1924 la urbestro de Lyon, sinjoro Herriot, malfermis tie kun prof. Antonelli Internacian sciencan kongreson por akceli la komercajn rilatojn inter popoloj. Intervenis la Italo-svisa Komerca Ĉambro kaj la nove fondita franca societo „Esperanto et Commerce“, Kelkaj delegitoj, inkluzive Ĉino, parolis Esperante kaj la kongreso aprobis la rezoluciojn de la Venezia konferenco.
 
@@ -1056,9 +1058,9 @@ La XV-a Univerŝala Kongreso en Nirnberg dum la Aŭgusto 1923 estis la plej gran
 
 Kompreneble en la esperantistaro mem ne regis tia krizo. Mencio aŭ telegramoj de la francaj samideanoj estis ĉiufoje aklamataj ovacie dum la kongreso. Tamen tiu netolerebla stato kaj ankaŭ la malpermesa cirkulero de la instrua ministro Leon Berard kontraŭ Esperanto tre malfaciligis la revekiĝon de la movado en Francujo. Generalo Sebert ne trovis ĉirkaŭ si la deziritajn kunlaborojn. Li rezignis je la prezidanteco de la K.R. de naciaj societoj en Julio 1923.
 
-lliaj reprezentantoj jam kunsidis unufoje en Venezia kaj rekunvenis oficiale en Nŭrnberg kun la komitatanoj de UEA. Kiel nova estraro estis elektitaj du Angloj. Sinjoro Merchant de tiam prezidis kaj sinjoro Edmonds, kiel sekretariokasisto, organizis K. R., kolektis aliĝojn kaj kotizojn de 20 naciaj societoj kaj preparis regularon. Post Nŭrnberg UBA kaj la naciaj societoj skribe aprobis la tutan aranĝon de Helsinki kaj elektis formale la internacian Centran Komitaton de la Esperanto-movado[^28].
+lliaj reprezentantoj jam kunsidis unufoje en Venezia kaj rekunvenis oficiale en Nŭrnberg kun la komitatanoj de UEA. Kiel nova estraro estis elektitaj du Angloj. Sinjoro Merchant de tiam prezidis kaj sinjoro Edmonds, kiel sekretariokasisto, organizis K. R., kolektis aliĝojn kaj kotizojn de 20 naciaj societoj kaj preparis regularon. Post Nŭrnberg UBA kaj la naciaj societoj skribe aprobis la tutan aranĝon de Helsinki kaj elektis formale la internacian Centran Komitaton de la Esperanto-movado[^30].
 
-[^28]: Por juro kaj financoj: Sinjoro Page (Skoto), por instruado kaj statistiko: D-ro Dietterle (Germano), por gazetaro: Sinjoro Hromada (Ĉeĥo), por internaj aferoj: Sinjoro Chavet (Franco), por transoceanaj rilatoj: Sinjoro Won Kenn (Ĉino), por ĝenetala propagando kaj prezido; D-ro Privat (Sviso).
+[^30]: Por juro kaj financoj: Sinjoro Page (Skoto), por instruado kaj statistiko: D-ro Dietterle (Germano), por gazetaro: Sinjoro Hromada (Ĉeĥo), por internaj aferoj: Sinjoro Chavet (Franco), por transoceanaj rilatoj: Sinjoro Won Kenn (Ĉino), por ĝenetala propagando kaj prezido; D-ro Privat (Sviso).
 
 En Marto 1924 la nova organizo estis regule konfirmita per skribaj voĉdonoj. Unua laborkonferenco de la maciaj societoj kun komitato de UEA estis oficiale kunvokita de C. K. en Geneve je Pasko. Ĝi kunsidis solene en Palaco Eynard kaj serioze pritraktis internaciajn aferojn komunajn de propagando kaj administrado, interalie komercan eksperimenton kursan, komercan adresaron, centran bibliotekon, organizon de l' kongresoj.
 
@@ -1078,11 +1080,11 @@ Tiamaniere finiĝis en la historio de Esperanto-periodo, kiam unu kongreso en la
 
 Cetere sinjoro Warden rimarkis tute prave, ke malnovaj leĝoj valoras ĝis akcepto de novaj. Tial estis poste adoptita, ankaŭ unuanime krom ses voĉoj, nova kongresa regularo, fakte nur revizita formo de la antaŭmilita Seberta.
 
-En posta jaro K. R. mem fiksis sian regularon kaj la Centra Komitato eldonis oficialan libreton entenantan ĉiujn novajn tekstojn „Organiza Statutaro“. Ankaŭ ĝi eldonis la neaperintajn protokolojn de la lastaj kongresoj en sama formato kiel la antaŭmilita[^29]. Tiamaniere la dokumenta tradicio ne rompiĝis[^30].
+En posta jaro K. R. mem fiksis sian regularon kaj la Centra Komitato eldonis oficialan libreton entenantan ĉiujn novajn tekstojn „Organiza Statutaro“. Ankaŭ ĝi eldonis la neaperintajn protokolojn de la lastaj kongresoj en sama formato kiel la antaŭmilita[^31]. Tiamaniere la dokumenta tradicio ne rompiĝis[^32].
 
-[^29]: Helsinki, Wien.
+[^31]: Helsinki, Wien.
 
-[^30]: En 1924 sinjoroj Robert Kreuz el Frankfurt kaj Andreo Ĉe el Transilvanio estis vokitaj al Geneve kiel sekretarioj de la Centra Komitato, kiu starigis sian sidejon tie apud UEA. En 1925 sinjoro Kreuz estis elektita ĝenerala sekretario kaj sinjoro Ĉe vojaĝis tra Eŭropo kiel apostola sekretario. En 1926 novelektita C. K. enhavis tri novajn anojn anstataŭ sinjoroj Page, Kenn, Chavet, cedintaj sian lokon. Estis elektitaj sinjoro Rollet de l' Isle (Franco), sinjorino Isbriicker (Nederlandanino) kaj d-ro Stromboli (Italo). 
+[^32]: En 1924 sinjoroj Robert Kreuz el Frankfurt kaj Andreo Ĉe el Transilvanio estis vokitaj al Geneve kiel sekretarioj de la Centra Komitato, kiu starigis sian sidejon tie apud UEA. En 1925 sinjoro Kreuz estis elektita ĝenerala sekretario kaj sinjoro Ĉe vojaĝis tra Eŭropo kiel apostola sekretario. En 1926 novelektita C. K. enhavis tri novajn anojn anstataŭ sinjoroj Page, Kenn, Chavet, cedintaj sian lokon. Estis elektitaj sinjoro Rollet de l' Isle (Franco), sinjorino Isbriicker (Nederlandanino) kaj d-ro Stromboli (Italo). 
 
 ## Ĉe la laboristoj (1921—1925)
 
@@ -1116,9 +1118,9 @@ Pri la uzo de Esperanto ĉe la Internacia Laboroficejo en Geneve vidu paĝon 169
 
 Post kurso de dudekkvin lecionoj, kelkaj laboristoj jam povis flue paroli, aliaj nur skribi, kaj ĉiuj almenaŭ legi kaj kompreni la lingvon. Ĝi fariĝis por ili la ŝlosilo al pli vasta horizonto, al pli da kono, pli da kontakto kun la ekstero, eĉ foje vera kultura rimedo, la „latina lingvo de l' malriĉuloj“. Pri tiu temo unu studentino de Socia Virina Lernejo en Geneve, fraŭlino Chapuis, prezentis rimarkindan studon kiel diploman tezon. Post enketo ŝi citis kortuŝajn atestojn de diverslandaj laboristoj, kiuj rakontis kion kaj kiom tiu lernado alportis al ili morale kaj spirite, ebligante al ili efektive trovi novan scion kaj amikojn en la tuta mondo.
 
-Ĉar inter ili ankaŭ iafoje revolucianoj uzis la lingvon por siaj politikaj aferoj, Esperanto ricevis kelkajn riproĉojn en oficialaj burĝaj rondoj, sed, kiel prave rimarkis d-ro Nitobe, vicsekretario ĝenerala de la Ligo de Nacioj, inteligentaj homoj ja scias bone, ke tian propagandon oni faras eĉ multe pli vaste per naciaj lingvoj, kaj neniu kuraĝus ilin kulpigi pro tio. Cetere, same kiel radio aŭ preso, helpa lingvo estas utiligata de multaj plej kontraŭaj partioj. En unu lando oni riproĉis, ke ĝi estas katolika lingvo, ĉar okazis religia kongreso en ĝi kun beno de la papo, en alia loko oni plendis, ke ĝi fariĝis polica instrumento ĉar efektive policanoj lernis ĝin per oficialaj kursoj en Wien, Dresden, Madrido, Geneve, Budapest, Leipzig, Chemnitz, Kĉln, Hago, Antverpeno ktp., havante eĉ propran gazeton, asocion kaj dikan jarlibron en la lingvo depost 1925[^31].
+Ĉar inter ili ankaŭ iafoje revolucianoj uzis la lingvon por siaj politikaj aferoj, Esperanto ricevis kelkajn riproĉojn en oficialaj burĝaj rondoj, sed, kiel prave rimarkis d-ro Nitobe, vicsekretario ĝenerala de la Ligo de Nacioj, inteligentaj homoj ja scias bone, ke tian propagandon oni faras eĉ multe pli vaste per naciaj lingvoj, kaj neniu kuraĝus ilin kulpigi pro tio. Cetere, same kiel radio aŭ preso, helpa lingvo estas utiligata de multaj plej kontraŭaj partioj. En unu lando oni riproĉis, ke ĝi estas katolika lingvo, ĉar okazis religia kongreso en ĝi kun beno de la papo, en alia loko oni plendis, ke ĝi fariĝis polica instrumento ĉar efektive policanoj lernis ĝin per oficialaj kursoj en Wien, Dresden, Madrido, Geneve, Budapest, Leipzig, Chemnitz, Kĉln, Hago, Antverpeno ktp., havante eĉ propran gazeton, asocion kaj dikan jarlibron en la lingvo depost 1925[^33].
 
-[^31]: Solidan internacian organizon formis siaflanke la esperantistaj poŝtistoj kaj telegrafistoj sub nomo ILEPTO sub gvidado de d-ro Spielmann post sinjoroj Behrendt kaj Reber kaj la fervojistoj en Internacia Federacio fondita de sinjoroj Stojniĉ kaj Puhalo en Sudslavio.
+[^33]: Solidan internacian organizon formis siaflanke la esperantistaj poŝtistoj kaj telegrafistoj sub nomo ILEPTO sub gvidado de d-ro Spielmann post sinjoroj Behrendt kaj Reber kaj la fervojistoj en Internacia Federacio fondita de sinjoroj Stojniĉ kaj Puhalo en Sudslavio.
 
 Kiel ĉiu alia homa esprimilo, Esperanto ja spegulas ĉiujn flankojn de la homa socio, kiam ili preterpasas landlimojn. Tio estas evidenta kondiĉo kaj pruvo de vera vivanteco. Klasbatalo, sektoj aŭ polico estas konataj faktoj. Kial ili ne bildiĝus en internacia lingvo same kiel en ilustritaj gazetoj? Esperanto ne bezonas iel senkulpiĝi pro tio. Tute male. Mondlingvo apartenas al la tuta mondo. Uzas ĝin, kiu ajn volas.
 
@@ -1158,9 +1160,9 @@ La propono estis resendita al la komisiono pri la tagordo. Ĝian raporton la pre
 > \
 > La supre nomitaj delegitoj proponis la enkondukon de la internacia helplingvo Esperanto en la publikaj lernejoj por faciligi rektan interkompreniĝon de ĉiuj popoloj en la mondo. \
 > \
-> La komisiono opinias, ke tiu problemo, je kiu interesiĝas ĉiam pli multaj regnoj, meritas atentan studadon antaŭ ol ĝi povas esti pritraktata de la kunveno. Ĝi estis jam resendita lastan jaron al komisiono, kiu prezentis mallongan raporton rekomendante, ke la ĝenerala sekretariaro enketu pri la jam faritaj eksperimentoj kaj pri la rezultatoj atingitaj sur la kampo de faktoj. La komisiono proponas, ke la temo estu enskribita sur la tagordon de la venonta kunveno, kaj ke la ĝenerala sekretariaro preparu dumĝise plenan kaj dokumentitan raporton laŭ la senco montrita en la rezolucia propono. Laŭ la deziro de la subskribintoj, la raporto de la dua komisiono kaj la raporto de la vicsekretario ĝenerala pri lia misio ĉe la Praha kongreso[^32] estos komunikataj al la anoj de la Ligo sen prokrasto.“
+> La komisiono opinias, ke tiu problemo, je kiu interesiĝas ĉiam pli multaj regnoj, meritas atentan studadon antaŭ ol ĝi povas esti pritraktata de la kunveno. Ĝi estis jam resendita lastan jaron al komisiono, kiu prezentis mallongan raporton rekomendante, ke la ĝenerala sekretariaro enketu pri la jam faritaj eksperimentoj kaj pri la rezultatoj atingitaj sur la kampo de faktoj. La komisiono proponas, ke la temo estu enskribita sur la tagordon de la venonta kunveno, kaj ke la ĝenerala sekretariaro preparu dumĝise plenan kaj dokumentitan raporton laŭ la senco montrita en la rezolucia propono. Laŭ la deziro de la subskribintoj, la raporto de la dua komisiono kaj la raporto de la vicsekretario ĝenerala pri lia misio ĉe la Praha kongreso[^34] estos komunikataj al la anoj de la Ligo sen prokrasto.“
 
-[^32]: Nur la tria parto de tiu raporto aperis presite (N-ro A. 72, 1921. XII).
+[^34]: Nur la tria parto de tiu raporto aperis presite (N-ro A. 72, 1921. XII).
 
 Post lego, tiuj proponoj estis adoptitaj de la ĝenerala kunveno sen ia kontraŭstaro. La ĝenerala sekretario ricevis instrukcion komenci la enketon. Cirkuleroj de la Ligo estis sendataj al ĉiuj registaroj de la membraj ŝtatoj kaj al kompetentaj societoj kun detala demandaro pri la instruado de Esperanto, lernolibroj, rezultatoj ktp.
 
@@ -1260,9 +1262,9 @@ Cetere la politikaj problemoj fariĝis pli gravaj de jaro al jaro kaj „flanka�
 
 La du ĉefaj proponoj de la raportaj konkludoj temis pri lernejoj kaj pri telegrafo. Montriĝis do pli saĝe preferi la duan, ankoraŭ netuŝitan, kaj atendi ĝis la franca registaro ŝanĝos koloron aŭ sintenon.
 
-Tio okazis en 1924, kiam sinjoro Herriot promesis nuligi la malpermesan cirkuleron de la antaŭa ministro Leon Berard. La persa delegitaro tiam prezentis rezolucion rekomendantan al ĉiuj regnoj liganaj, ke ili allasu Esperanton kiel lingvon klaran[^33] en la telegrafaj komunikoj kaj rekonu al ĝi tiun rajton kiel al „internacia helpa lingvo“ laŭ la deziro esprimita jam en la Bulonja kongreso.
+Tio okazis en 1924, kiam sinjoro Herriot promesis nuligi la malpermesan cirkuleron de la antaŭa ministro Leon Berard. La persa delegitaro tiam prezentis rezolucion rekomendantan al ĉiuj regnoj liganaj, ke ili allasu Esperanton kiel lingvon klaran[^35] en la telegrafaj komunikoj kaj rekonu al ĝi tiun rajton kiel al „internacia helpa lingvo“ laŭ la deziro esprimita jam en la Bulonja kongreso.
 
-[^33]: Lingvo „klara“ estas rekonita kutima lingvo, ne ia kodo cifera aŭ litera.
+[^35]: Lingvo „klara“ estas rekonita kutima lingvo, ne ia kodo cifera aŭ litera.
 
 La rezolucio estis subtenata en la dua komisiono (pri teknikaj aferoj) de la delegitoj ĉina, japana, nederlanda kaj aŭstralia. La brita, brazila kaj jugoslava proponis novan prokraston. La franca sindetenis tute. La venezuela volis anstataŭi la vorton „Esperanto“ per „artefaritaj lingvoj“, sed lia vidpunkto ne estis akceptita. La pola raportanto kontraŭbatalis la rezolucion citante la opinion de la komisiono por intelekta kooperado. Spite tiu opinio kaj eĉ kontraŭ ĝi, la rezolucio estis fine adoptita per 13 voĉoj kontraŭ 9. Respondis jese la delegitoj aŭstria, aŭstralia, bulgara, ĉeĥoslovaka, ĉina, finnlanda, hungara, itala, japana, nederlanda, novzelanda, persa kaj rumana.
 
@@ -1270,9 +1272,9 @@ La plimulto deziris per tio doni publikan kuraĝigon al la movado por Esperanto,
 
 > „La ĝenerala kunveno de la Ligo de Nacioj rekomendas, ke la ŝtatoj, membroj de la Ligo, konsentu al Esperanto la traktadon kaj tarifojn de lingvo „klara“ en telegrafaj kaj radiotelegrafaj interrilatoj, *kiel praktika helpa lingvo de la internaciaj interkomunikoj flanke de la naciaj lingvoj uzataj*, kaj atentigas je tiu celo la organizon pri komunikado kaj transito.“
 
-Tio estis la unua interŝtata rekono de Esperanto kiel uzata lingvo kun oficiala kaj eĉ prezica difino pri ĝia rolo en homaj rilatoj. Tiamaniere estis plenumita unu el la du konkludaj proponoj de la liga raporto. La decido aperis en la tutmonda gazetaro kaj donis al Esperanto novan akcelon. Tiamaniere la kvin jaroj da pacienca agado ĉe la Ligo de Nacioj atingis nur la duonon de la maksimumo celita. La problemo pri lernejoj restis nesolvita kaj malfermita, sed tiu pri oficiala rekono kiel „lingvo klara“ ricevis la deziritan solvon. Inter ambaŭ deziresprimoj de la Bulonja kongreso, la praktiko sukcesigis unue la duan. Eble prave. Ĉar rekomendo pri lernejoj estus eble restinta sur papero, kiel multaj pli gravaj eĉ pri senarmigo; dume la rezolucio pri oficiala rekono de Esperanto kiel lingvo uzata internacie baldaŭ transformiĝis en decidon de la Interŝtata Unuiĝo Telegrafa kaj tiam fariĝis afero ne plu libervola, sed deviga por ĉiuj ŝtatoj almenaŭ en unu preciza kampo[^34]. Plie la Taporto de la Ligo de Nacioj restis fundamenta oficiala dokumento pri la ekzisto kaj valoro de Esperanto. Homoj estis homoj poste kiel antaŭe, sed multaj ne plu ridis pri mondlingvo kaj ekkonsideris ĝin kiel aferon seriozan „iam eble sukcesontan“. Tiu ekstera sintenado estis la ĉela diferenco inter antaŭmilita kaj postmilita epoko.
+Tio estis la unua interŝtata rekono de Esperanto kiel uzata lingvo kun oficiala kaj eĉ prezica difino pri ĝia rolo en homaj rilatoj. Tiamaniere estis plenumita unu el la du konkludaj proponoj de la liga raporto. La decido aperis en la tutmonda gazetaro kaj donis al Esperanto novan akcelon. Tiamaniere la kvin jaroj da pacienca agado ĉe la Ligo de Nacioj atingis nur la duonon de la maksimumo celita. La problemo pri lernejoj restis nesolvita kaj malfermita, sed tiu pri oficiala rekono kiel „lingvo klara“ ricevis la deziritan solvon. Inter ambaŭ deziresprimoj de la Bulonja kongreso, la praktiko sukcesigis unue la duan. Eble prave. Ĉar rekomendo pri lernejoj estus eble restinta sur papero, kiel multaj pli gravaj eĉ pri senarmigo; dume la rezolucio pri oficiala rekono de Esperanto kiel lingvo uzata internacie baldaŭ transformiĝis en decidon de la Interŝtata Unuiĝo Telegrafa kaj tiam fariĝis afero ne plu libervola, sed deviga por ĉiuj ŝtatoj almenaŭ en unu preciza kampo[^36]. Plie la Taporto de la Ligo de Nacioj restis fundamenta oficiala dokumento pri la ekzisto kaj valoro de Esperanto. Homoj estis homoj poste kiel antaŭe, sed multaj ne plu ridis pri mondlingvo kaj ekkonsideris ĝin kiel aferon seriozan „iam eble sukcesontan“. Tiu ekstera sintenado estis la ĉela diferenco inter antaŭmilita kaj postmilita epoko.
 
-[^34]: Vidu la ĉapitron pri „Universala Telegrafa Unio“.
+[^36]: Vidu la ĉapitron pri „Universala Telegrafa Unio“.
 
 ## Uzo en radiofonio (1923—1925)
 
@@ -1287,9 +1289,9 @@ UEA decidis aranĝi pri tiu fako la trian teknikan konferencon. La novaj radiost
 
 Nur triono de la partoprenantoj sciis Esperanton. Tamen o la facileco de interparolo per tiu lingvo, ĝi servis 50 procentoj de la diskutoj, kaj la ceteraj delegitoj baldaŭ varbitaj per la faktoj antaŭ si kaj per la paro kun sia lingva diverseco kaj embaraso.
 
-Unua kunsido diskutis la apartigon de l' ondlongoj kaj deziresprimis al la Ligo de Nacioj kaj Universala Telegrafa Unio, por ke estu revizata la interkonsento de Washington 1920 pri senfadena telegrafio[^35].
+Unua kunsido diskutis la apartigon de l' ondlongoj kaj deziresprimis al la Ligo de Nacioj kaj Universala Telegrafa Unio, por ke estu revizata la interkonsento de Washington 1920 pri senfadena telegrafio[^37].
 
-[^35]: Tiun deziresprimon plenumis ambaŭ organizaĵoj en postaj jaroj. La konferenco starigis principon, ke oni devus rezervi tri kampojn de ondlongoj unu por radiofonio, dua por radiotelegrafio, kaj tria por amatoraj eksperimentoj.
+[^37]: Tiun deziresprimon plenumis ambaŭ organizaĵoj en postaj jaroj. La konferenco starigis principon, ke oni devus rezervi tri kampojn de ondlongoj unu por radiofonio, dua por radiotelegrafio, kaj tria por amatoraj eksperimentoj.
 
 ---
 
@@ -1305,9 +1307,9 @@ Dua kunsido diskutis la lingvan demandon. Kolonelo Hilfiker, stabestro de la in�
 > \
 > rekomendas al ĉiuj radiostacioj regulan momentan brodkastadon en Esperanto almenaŭ unu vesperon ĉiusemajne, je difinita tago, kaj kiom plej eble disaŭdigon de Esperanto-kurso, ĉar tiu lingvo montriĝis facila, klare aŭdebla kaj jam disvastigata inter aŭdantoj de ĉiuj landoj en konsiderinda proporcio.“
 
-Tria kunsido diskutis la necesecon de konstanta ligilo inter radiostacioj kaj elektis komisionon por fondi internacian radiofonan centron en Geneve[^36].
+Tria kunsido diskutis la necesecon de konstanta ligilo inter radiostacioj kaj elektis komisionon por fondi internacian radiofonan centron en Geneve[^38].
 
-[^36]: Post negocado kun la potenca Brita Brodkasta Kompanio, „tiu centro estis fondita unu jaron poste sub nomo „Internacia Radiofona Unuiĝo“
+[^38]: Post negocado kun la potenca Brita Brodkasta Kompanio, „tiu centro estis fondita unu jaron poste sub nomo „Internacia Radiofona Unuiĝo“
 
 Kvara kunsido diskutis la teknikan vortaron. Estis decidite peti la ĵus fonditan Internacian Radio-Asocion, preziditan de d-ro Corret, akceli la preparon de la teknika terminaro pri senfadena telegrafio kaj telefonio interkonsente kun la kompetenta sekcio de la Esperantista-Akademio. Provizoran vortaron seslingvan (inkluzive Esperanto) aperigis d-ro Corret en la sama jaro.
 
@@ -1321,9 +1323,9 @@ UEA eldonis Esperantan horaron de l' eŭropaj radiostacioj kaj organizis standon
 
 Dum la posta jaro 21 Es eranto-kursoj regule disaŭdiĝis el 20 radiostacioj kaj Ameriko (10 germanaj, 2 francaj, 3 hispanaj, 1 itala, 1 svisa, 1 brazila, 1 meksika, 1 usona) kaj 118 Esperanto-prelegoj el 50 radiostacioj en 19 landoj. Neniam antaŭe la lingvo estis tiom aŭdata de tiel vasta publiko. Multaj miloj da lernolibroj disvendiĝis. Sed, kio estis pli grava, malvastiĝis la konata antaŭjuĝo, ke „Esperanto nepre devas esti malbela“. Per aŭdo centmiloj da homoj povis konstati male, ke ĝi sonas agrable al oreloj.
 
-Motto rimarkinda fakto, ke baldaŭ la kursoj pli regule okazis ol la prelegoj. Jen la kaŭzo. En la komenco ekzistis nur kelkaj radiostacioj en ĉiu kontinento kaj tial oni facile aŭskultis la plej malproksimajn. Pli malfrue ili tiel multiĝis, ke preskaŭ ĉiu iom grava urbo havis la sian. Tiam la loka aŭdado preskaŭ ĉie venkis la internacian. Esperanto restis la plej populara temo de „fremdingva instruado“, sed la internacia kampo fariĝis malpli aktuala[^37].
+Motto rimarkinda fakto, ke baldaŭ la kursoj pli regule okazis ol la prelegoj. Jen la kaŭzo. En la komenco ekzistis nur kelkaj radiostacioj en ĉiu kontinento kaj tial oni facile aŭskultis la plej malproksimajn. Pli malfrue ili tiel multiĝis, ke preskaŭ ĉiu iom grava urbo havis la sian. Tiam la loka aŭdado preskaŭ ĉie venkis la internacian. Esperanto restis la plej populara temo de „fremdingva instruado“, sed la internacia kampo fariĝis malpli aktuala[^39].
 
-[^37]: Tamen la bezono je internacia daŭre sentiĝis. En Majo 1927 la Internacia Unio de Radiofonio, kunveninta en Lausane, decidis, rekomendi al ĉiuj radiostacioj provi regule ĉiusemajnan paroladon en esperanto, laŭ la propono de Radio-Ĝeneve.
+[^39]: Tamen la bezono je internacia daŭre sentiĝis. En Majo 1927 la Internacia Unio de Radiofonio, kunveninta en Lausane, decidis, rekomendi al ĉiuj radiostacioj provi regule ĉiusemajnan paroladon en esperanto, laŭ la propono de Radio-Ĝeneve.
 
 Tamen kelkaj el la plej grandaj radiostacioj, kiel ekzemple Radio-Paris, daŭre disaŭdigis ĉiusemajne tute regule ekonomiajn informojn en Esperanto pri sia lando.
 
@@ -1379,9 +1381,9 @@ Laŭ metodo de vortaroj ekzistis jam la *Enciklopedia vortaro* de Verax kaj faka
 
 Antaŭmilite ankaŭ ekzistis fakaj asocioj de kuracistoj kaj de juristoj. Post la milito ambaŭ reviviĝis sub novaj formoj. La *Tutmonda Esperanstista Kuracista Asocio*, populare konata kiel TEKA, komencis eldonon de bulteno sub gvidado de d-ro Blassberg en Krakovo. La *Internacia Societo de Esperantistaj juristoj* ankaŭ reorganiziĝis kun d-ro Liebeck, prezidanto, kaj sinjoro Litauer, sekretario en Varsovio.
 
-La momento venis por provi la unuan *Internacian Konferencon por Uzado de Esperanto en la Sciencoj puraj kaj aplikitaj*. La Centra Komitato de la Esperanto-movado petis la Sciencan Asocion ĝin organizi en Parizo je Pasko 1925. Samtempe ĝi interkonsentis kun la societo „Esperanto et Commerce“ kaj la Komitato de la Pariza Foiro, por ke okazu samtempe tie la dua *Konferenco por la Uzado de Esperanto en Komerco kaj Industrio*. Ambaŭ estis tiam eblaj pro radikala ŝanĝo de registaro en Francujo, kie pluraj amikoj de Esperanto, Painleve, Chaumet, Godard fariĝis ministroj. Ambaŭ konferencoj okazis en Parizo la 14-an ĝis 17-an de Majo: 1925 kaj havis pure teknikan karakteron. La komercan patronis oficiale la Pariza Komerca Ĉambro, kiu ĝin malfermis en sia nova palaco kun bonvena alparolo de sia prezidanto sinjoro Kaempf. La sciencan protektis la ĉefaj subskribintoj de la fama manifesto de francaj scienculoj kaj la Franca Asocio por progresigo de la Sciencoj[^38]. Ambaŭ konferencoj kune havis solenan vesperkunsidon en la plej vasta amfiteatro de la Sorbonne (Pariza universitato), kie granda publiko de dumil homoj aplaŭdis elokventajn vortojn de famaj scienculoj Richet kaj Berthelot pri Esperanto. La Ejfeltura ŝtata radiostacio disaŭdigis tra tuta Eŭropo tiun impresan ceremonion.
+La momento venis por provi la unuan *Internacian Konferencon por Uzado de Esperanto en la Sciencoj puraj kaj aplikitaj*. La Centra Komitato de la Esperanto-movado petis la Sciencan Asocion ĝin organizi en Parizo je Pasko 1925. Samtempe ĝi interkonsentis kun la societo „Esperanto et Commerce“ kaj la Komitato de la Pariza Foiro, por ke okazu samtempe tie la dua *Konferenco por la Uzado de Esperanto en Komerco kaj Industrio*. Ambaŭ estis tiam eblaj pro radikala ŝanĝo de registaro en Francujo, kie pluraj amikoj de Esperanto, Painleve, Chaumet, Godard fariĝis ministroj. Ambaŭ konferencoj okazis en Parizo la 14-an ĝis 17-an de Majo: 1925 kaj havis pure teknikan karakteron. La komercan patronis oficiale la Pariza Komerca Ĉambro, kiu ĝin malfermis en sia nova palaco kun bonvena alparolo de sia prezidanto sinjoro Kaempf. La sciencan protektis la ĉefaj subskribintoj de la fama manifesto de francaj scienculoj kaj la Franca Asocio por progresigo de la Sciencoj[^40]. Ambaŭ konferencoj kune havis solenan vesperkunsidon en la plej vasta amfiteatro de la Sorbonne (Pariza universitato), kie granda publiko de dumil homoj aplaŭdis elokventajn vortojn de famaj scienculoj Richet kaj Berthelot pri Esperanto. La Ejfeltura ŝtata radiostacio disaŭdigis tra tuta Eŭropo tiun impresan ceremonion.
 
-[^38]: Ankaŭ la ĝenerala Franca Asocio de Ŝtataj Inĝenieroj kaj la Societo por Plivigligo de la Franca Industrio.
+[^40]: Ankaŭ la ĝenerala Franca Asocio de Ŝtataj Inĝenieroj kaj la Societo por Plivigligo de la Franca Industrio.
 
 En multaj naciaj gazetoj aperis depeŝoj pri la konferencoj. La komercan partoprenis reprezentantoj de 10 registaroj (Franca, Germana, Ĉina, Hispana, Hungara, Japana, Litova, Persa, Rumana, Ĉeĥoslovaka), 171 komercaj ĉambroj kaj industriaj korporacioj, 14 foiroj kaj 208 firmoj aŭ individuaj komercistoj de 33 landoj.
 
@@ -1391,9 +1393,9 @@ Iliaj delegitoj kunsidis en la Oceanografia Instituto sub prezido de sinjoro Cot
 
 La unua kaj dua kunsidoj ekzamenis la eblecojn realigi ja kvin deziresprimojn de la konata „manifesto de la sciencakademianoj“ kaj aparte akcentis la bezonon aldoni en nacilingvaj sciencaj revuoj esperantan resumon de la ĉefaj artikoloj. Estis rimarkite, ke pluraj japanaj revuoj tion jam faris. Cetere en tiu lando konataj scienculoj publikigis mem artikolojn kaj verkojn en Esperanto pri medicino, psikiatrio, astronomio, biologio kaj aliaj temoj. La saman rekomendon pri resumoj en Esperanto voĉdonis kelkajn monatojn poste la kongreso de la Teknika Gazetaro, kunveninta en Parizo.
 
-La tria kunsido diskutis la reorganizon kaj plifortigon de la Scienca Asocio. La kvara pritraktis la problemon de teknikaj vortaroj kaj aprobis la metodon proponitan de sinjoro Rollet de l'Isle[^39].
+La tria kunsido diskutis la reorganizon kaj plifortigon de la Scienca Asocio. La kvara pritraktis la problemon de teknikaj vortaroj kaj aprobis la metodon proponitan de sinjoro Rollet de l'Isle[^41].
 
-[^39]: Ĉe la fino okazis kortuŝa dankesprimo al la malnova pioniro de Esperanto kaj fondinto de Scienca Asocio generalo Sebert, al kiu la Internacia Centra Komitato de la Esperanto-movado donacis memoraĵon en nomo de UEA kaj de la naciaj societoj meze de granda ovacio.
+[^41]: Ĉe la fino okazis kortuŝa dankesprimo al la malnova pioniro de Esperanto kaj fondinto de Scienca Asocio generalo Sebert, al kiu la Internacia Centra Komitato de la Esperanto-movado donacis memoraĵon en nomo de UEA kaj de la naciaj societoj meze de granda ovacio.
 
 La komercan konferencon sekvis kompreneble pli granda nombro da delegitoj. Ĝin prezidis sinjoro Andre Baudet, trezorestro de la Pariza Komerca Ĉambro kaj ĉefa organizinto. La laborkunsidoj okazis en la kunvenejo de la Pariza Foiro ĵus malfermita.
 
@@ -1401,9 +1403,9 @@ Post raportoj pri Esperanto en komercaj rondoj, iom same kiel en Venezia, la ĉe
 
 La celo estis apliki la ideon proponitan de d-ro Zamenhof en sia Unua Libro en 1887. Sinjoro kavoj konsilis, ke komercisto, ekzemple sveda, kaloro al hungara firmo, uzu Esperanton kaj enmetu kun la letero la „ŝlosilon“ hungaran. Tiam la Budapeŝta komercisto povas facile traduki mem la leteron foliumante la broŝureton. Per tio li samtempe lernos en momento la konstruon de Esperanto kaj konstatos ĝian simplecon.
 
-Estis decidite peti la Centran Komitaton instigi la eldonon aŭ represon de ŝlosiloj en ĉiuj lingvoj laŭ unuforma teksto kaj formato. Por tion plenumi la Centra Komitato laboris dum la du postaj jaroj korespondante kun ĉiuj naciaj societoj kaj serĉante mem eldonistojn laŭnecese. En 1927 estis haveblaj ŝlosiloj en ĉiuj ĉefaj lingvoj[^40].
+Estis decidite peti la Centran Komitaton instigi la eldonon aŭ represon de ŝlosiloj en ĉiuj lingvoj laŭ unuforma teksto kaj formato. Por tion plenumi la Centra Komitato laboris dum la du postaj jaroj korespondante kun ĉiuj naciaj societoj kaj serĉante mem eldonistojn laŭnecese. En 1927 estis haveblaj ŝlosiloj en ĉiuj ĉefaj lingvoj[^42].
 
-[^40]: En 1927 estis aperontaj ŝlosiloj en judgermana, persa, malaja kaj turka lingvoj.
+[^42]: En 1927 estis aperontaj ŝlosiloj en judgermana, persa, malaja kaj turka lingvoj.
 
 Laŭ la rekomendo de la Pariza konferenco estis aldonita al la ŝlosila vortareto oportuna terminaro de komercaj esprimoj, kompilita de sinjoro Kreuz interkonsente kun la Akademio.
 
@@ -1435,9 +1437,9 @@ Tiu teksto entenas neniun gramatikan eraron, sed krom la rida plezuro, ĉiu Fran
 
 Laŭ parto XIII de la Packontrakto de Versailles estis fondita en Geneve en 1920 Internacia Laboroficejo dependanta de Interŝtata Organizo por interkonsentoj en industria leĝaro de la diversaj regnoj. Kvankam ĝi havas proprajn konferencojn, ĝi estas budĝete submetita al la Ligo de Nacioj, sed dekomence agadis tute sendepende. Kiel la Ligo, ĝi uzis tuj anglan kaj francan lingvojn oficiale, sed ĝia administra konsilantaro laŭstatute permesis la direktoron uzi ankaŭ aliajn lingvojn por oficialaj eldonaĵoj laŭbezone.
 
-UEA proponis al la Internacia Laboroficejo la servojn de siaj delegitoj por diskonigi ĝian celon en malgrandaj landoj eŭropaj kaj en Eŭropo. Akceptinte la proponon, ILO[^41] eldonis en Esperanto tri dokumentojn pri sia celo, organizo kaj statuto. La rezulto estis aperigo de artikoloj en 250 gazetoj de 20 landoj kaj interkorespondado per Esperanto kun diversaj malproksimaj laboraj aŭ kooperativaj organizaĵoj. Komence UEA disponigis al ILO esperantistan sekretarion dufoje semajne por traduki leterojn, sed baldaŭ ILO instruigis Esperanton al pluraj siaj oficistoj kaj deposte respondis mem en la lingvo al leteroj ricevitaj en ĝi.
+UEA proponis al la Internacia Laboroficejo la servojn de siaj delegitoj por diskonigi ĝian celon en malgrandaj landoj eŭropaj kaj en Eŭropo. Akceptinte la proponon, ILO[^43] eldonis en Esperanto tri dokumentojn pri sia celo, organizo kaj statuto. La rezulto estis aperigo de artikoloj en 250 gazetoj de 20 landoj kaj interkorespondado per Esperanto kun diversaj malproksimaj laboraj aŭ kooperativaj organizaĵoj. Komence UEA disponigis al ILO esperantistan sekretarion dufoje semajne por traduki leterojn, sed baldaŭ ILO instruigis Esperanton al pluraj siaj oficistoj kaj deposte respondis mem en la lingvo al leteroj ricevitaj en ĝi.
 
-[^41]: ILO = Internacia Labora Oficejo.
+[^43]: ILO = Internacia Labora Oficejo.
 
 Dum la Tria Internacia Labora Konferenco pli kreskis la lingva konfuzo. Mastraj, registaraj kaj laboristaj delegitoj parolis ne nur angle kaj france, sed hispane, germane, itale, japane ktp. La tradukoj plimultiĝis kaj foruzis multekostan tempon. UEA proponis al la konferenco aŭdi neoficialan raporton pri la lingva demando. Same kiel komitatano de la Ruĝa Kruco kaj d-ro Nansen pri helpo al malsatuloj en Ruslando, reprezentanto de UEA estis invitita alparoli la delegitojn la 18-an de Novembro 1921. Poste okazis ioma diskuto kun Idista interveno.
 
@@ -1467,21 +1469,21 @@ En 1924 la Ligo de Nacioj adoptis la rezolucion menciitan en antaŭa ĉapitro ka
 
 En Oktobro la plenkunsido Adoptis unuanime la revizitan artikolon VII finante la 3-an paragrafon jene: „La uzado de la latina lingvo *kaj de Esperanto* estas ankaŭ permesata.“
 
-Depost Novembro 1926, dato de valoriĝo de l' nova statuto, ĉiuj telegrafaj administracioj estis do liberaj allasi aŭ malpermesi la uzon de iu nacia lingvo kiel „klara“, ĉu la angla, la franca, la ĉina aŭ araba, sed ili devige devis permesi la du interkonsente rekonitajn internaciajn lingvojn, tiun de l' pasinta tempo, la latina, kaj tiun de l' moderna epoko, Esperanto. La deziro de la Bulonja kongreso estis fine plenumita[^42].
+Depost Novembro 1926, dato de valoriĝo de l' nova statuto, ĉiuj telegrafaj administracioj estis do liberaj allasi aŭ malpermesi la uzon de iu nacia lingvo kiel „klara“, ĉu la angla, la franca, la ĉina aŭ araba, sed ili devige devis permesi la du interkonsente rekonitajn internaciajn lingvojn, tiun de l' pasinta tempo, la latina, kaj tiun de l' moderna epoko, Esperanto. La deziro de la Bulonja kongreso estis fine plenumita[^44].
 
-[^42]: Same kiel por slavaj lingvoj la supersignoj ne estas telegrafataj. Laŭ Zamenhofa regulo oni rajtas ilin, se bezone, anstataŭi per litero h.
+[^44]: Same kiel por slavaj lingvoj la supersignoj ne estas telegrafataj. Laŭ Zamenhofa regulo oni rajtas ilin, se bezone, anstataŭi per litero h.
 
 ## La „Someraj Universitatoj“ (1925—1927)
 
 Dank' al 1a teknikaj konferencoj, la parola lingvo eniris pli amplekse la kampon de sciencaj klarigoj. Tie ĝi gajnis ankoraŭ plian riĉecon kaj precizecon. Sekvanta paŝo konsistus en regula uzado por faka instruado. Tio instigis la organizantojn de la XVI-a Kongreso en Geneve starigi samokaze  Internacian Someran Universitaton en Esperanto.
 
-Jam en Bruxelles sinjoroj Otlet kaj Lafontaine, fondintoj de la „Unuiĝo de la Internaciaj Asocioj“, organizis internacian universitaton diverslingvan dum du semajnoj en Septembro 1920. Per helpo de generalo Sebert ili donis an, al Esperanto. Okazis du prelegoj france pri ĝi[^43] kaj du en ĝi pri medicino[^44] kaj senfadena telegrafio[^45].
+Jam en Bruxelles sinjoroj Otlet kaj Lafontaine, fondintoj de la „Unuiĝo de la Internaciaj Asocioj“, organizis internacian universitaton diverslingvan dum du semajnoj en Septembro 1920. Per helpo de generalo Sebert ili donis an, al Esperanto. Okazis du prelegoj france pri ĝi[^45] kaj du en ĝi pri medicino[^46] kaj senfadena telegrafio[^47].
 
-[^43]: Sinjorino Cense, sinjoro Delvaux.
+[^45]: Sinjorino Cense, sinjoro Delvaux.
 
-[^44]: D-ro Wanverts el Lille.
+[^46]: D-ro Wanverts el Lille.
 
-[^45]: D-ro Corret el Parizo.
+[^47]: D-ro Corret el Parizo.
 
 Fari la tuton nur en unu lingvo kompreneble pli similus la unuecan tradicion de mezepokaj universitatoj kiel Padova aŭ Bologna, kie oni prelegis nur latine antaŭ studantoj alkurintaj el tuta Eŭropo. Tiu ideo jam kunkaŭzis la fondon de la Internacia Instituto de Esperanto antaŭ la Dresdena kongreso. En Julio 1908 prof. Papot el Chicago helpis min organizi dusemajnajn kursojn de la instituto en la usona someruniversitato de Chautauqua, N. Y., kie amerikanaj familioj kolonias ĉiujare apud ĉarma lago por aŭdi prelegojn de siaj plej modernaj intelektuloj kaj verkistoj. Ĝi restis instiga sperto.
 
@@ -1491,21 +1493,21 @@ En printempo 1925 la delegitoj de UEA alpendigis en multaj universitatoj kaj tek
 
 Ili okazis de l' 2-an ĝis 8-an de Aŭgusto 1925 en amfiteatroj de l' Ĝeneva universitato. Estis kvar fakoj: Psikologio, Elektro-tekniko, Internacia organiza juro kaj Lingvoscienco. Plej grava estis la unua, ĉar instruis tri konataj scienculoj. D-ro Pierre Bovet, profesoro de pedagogio ĉe la Ĝeneva universitato kaj incitiatinto de la Internacia Oficejo de Edukado, prelegadis pri la instinktoj de l' infanoj, d-ro Charles Baudoin, profesoro ĉe la Instituto J. J. Rousseau kaj konata franca verkisto pri aŭtosugesto, faris tri lekciojn pri psikagogio kaj metodoj de mensa disciplino, d-ro Fliigel, profesoro de psikologio ĉe la Londona universitato, klarigis dufoje pri objekto kaj metodo de psikanalizo. La amfiteatroj estis plenegaj kaj la kompreno tute sukcesa. Demandite pri sia sperto, la tri scienculoj diris, ke ili trovis pli facile instrui en Esperanto ol en alia fremda lingvo. Ili rimarkis pli senĝenan kaj fluan interkomprenon inter si kaj la aŭdantaro ol kiam ili devis prelegi en eksterlanda lingvo.
 
-Pri senfadena telegrafio kaj telefonio, Hertz-aj ondoj kaj lampaj detektiloj prelegadis faka inĝeniero Isbriicker. Pri internacia arbitracio, interŝtata industria leĝaro, interŝtataj konvencioj Poŝtaj, interŝtata konvencio pri helpo al vunditoj, la prelegoj okazis vice en la palaco de la Ligo de Nacioj, en la Internacia Labora Oficejo kaj en la Universitato[^46].
+Pri senfadena telegrafio kaj telefonio, Hertz-aj ondoj kaj lampaj detektiloj prelegadis faka inĝeniero Isbriicker. Pri internacia arbitracio, interŝtata industria leĝaro, interŝtataj konvencioj Poŝtaj, interŝtata konvencio pri helpo al vunditoj, la prelegoj okazis vice en la palaco de la Ligo de Nacioj, en la Internacia Labora Oficejo kaj en la Universitato[^48].
 
-[^46]: Prelegis sinjoroj Tarelli, d-ro Spielmann, Horner.
+[^48]: Prelegis sinjoroj Tarelli, d-ro Spielmann, Horner.
 
-Pri lingvaj demandoj, fonetiko, metodoj de instruado, evoluo de la vortaro, la kursoj allogis ankaŭ grandan nombron da aŭdantoj[^47]. Entute 600 kongresanoj aparte enskribiĝis por la Somera Universitato kaj mendis ties studentkarton. Ĉe la solena malfermo en la aŭlo de l' universitato, jam tri tagojn antaŭ la kongreso, kvincent studantoj aplaŭdis paroladon de franca prof. Cart pri lingva unueco, de itala pastro Carolfi pri la antikvaj universitatoj kaj de ĉina d-ro Won Kenn pri la penso de Konfucio post bonvenigo de prof. Bovet en nomo de la rektoro. La eksperimento sukcesis.
+Pri lingvaj demandoj, fonetiko, metodoj de instruado, evoluo de la vortaro, la kursoj allogis ankaŭ grandan nombron da aŭdantoj[^49]. Entute 600 kongresanoj aparte enskribiĝis por la Somera Universitato kaj mendis ties studentkarton. Ĉe la solena malfermo en la aŭlo de l' universitato, jam tri tagojn antaŭ la kongreso, kvincent studantoj aplaŭdis paroladon de franca prof. Cart pri lingva unueco, de itala pastro Carolfi pri la antikvaj universitatoj kaj de ĉina d-ro Won Kenn pri la penso de Konfucio post bonvenigo de prof. Bovet en nomo de la rektoro. La eksperimento sukcesis.
 
-[^47]: Sinjoroj d-ro Dietterle, Stojan, Ĉe.
+[^49]: Sinjoroj d-ro Dietterle, Stojan, Ĉe.
 
 Dua Somera Universitato okazis en Edinburgh dum la XVIll-a kongreso 1926. Tie prelegis konataj scienculoj prof. Bujwid eksredaktoro de l' Krakova universitato pri bakteorologio, prof. Fournier d'Albe el Dublina universitato pri senfadena telegrafio kaj televido, prof. Collinson el Liverpola universitato pri lingvoscienco. Sed plej sukcesa estis la fako pri folkloro, kie diversnaciaj prelegantoj priskribis popolajn morojn kaj kantojn de sia lando. Preskaŭ la tuta kongreso ĉeestis la paroladon de sinjoro Bennemann pri malnovaj germanaj popolkantaĵoj kun muzikaj ilustraĵoj per ĥoro kvarvoĉa.
 
 Jam dum la XIV-a kongreŝo en Helsinki aŭdiĝis bonega Esperanta prelego pri la finnlanda epopeo Kalevala kun ritma kantado de kelkaj versaroj per la lasta vivanta bardo de la finnaj arbaroj.
 
-La Tria Somera Universitato en Danzig 1927 klopodis realigi parton de la ideo esprimita de d-ro Zamenhof en sia parolado en Cambridge 1907. La programo celis instrui la kongresan aŭdantaron pri ĉiuj grandaj internaciaj klopodoj por unuecigo kaj normigo en scienco kaj tekniko: kalendaro, higieno, telefonio, mono ktp.[^48] Estas tute nature kaj logike uzi la internacian lingvon por disvastigi konon pri tiuj ĉi komunaj interesoj de la homaro, por kiuj laboris senbrue scienculoj kaj teknikistoj antaŭvidemaj. Ĝuste inter ili troviĝis ofte la plej aŭtoritataj amikoj aŭ eĉ adeptoj de Esperanto.
+La Tria Somera Universitato en Danzig 1927 klopodis realigi parton de la ideo esprimita de d-ro Zamenhof en sia parolado en Cambridge 1907. La programo celis instrui la kongresan aŭdantaron pri ĉiuj grandaj internaciaj klopodoj por unuecigo kaj normigo en scienco kaj tekniko: kalendaro, higieno, telefonio, mono ktp.[^50] Estas tute nature kaj logike uzi la internacian lingvon por disvastigi konon pri tiuj ĉi komunaj interesoj de la homaro, por kiuj laboris senbrue scienculoj kaj teknikistoj antaŭvidemaj. Ĝuste inter ili troviĝis ofte la plej aŭtoritataj amikoj aŭ eĉ adeptoj de Esperanto.
 
-[^48]: Prof, d-ro Schmidt, prof. d-ro Bujwid, sinjoro Behrendt, d-ro Vogt ktp.
+[^50]: Prof, d-ro Schmidt, prof. d-ro Bujwid, sinjoro Behrendt, d-ro Vogt ktp.
 
 ---
 
@@ -1553,9 +1555,9 @@ Sendube tio estis granda instigilo. Kio efektive kaŭzis la plej oftan antaŭju�
 
 Jen pronomo *vi*, prefikso *mal-*, participo *-ant*, radikoj *nigr'*, *sem'*, *am'*, prepozicio *de*. Nenio pli seka. Sed nun eksonu: „Vi, nigraj semantoj de malamo!“ Tuj kreiĝis en aŭdantoj bildo, ideo, sento. Ĉiam grupe, ne aparte vivas kaj efikas vortoj. La vera lingvero estas nepre fraza, ne vorta.
 
-Nu, kio estas literaturo? Arto, krei belon per lingvo. Certe la ĉefa celo de mondlingvo estas utilo, ne belo. Sed kiel malpermesi al artisto skribi pli elegante ol ordinara praktikulo? Kiel eviti, ke elokventulo parolas ĝin pli imprese ol timema diskutanto? Lingvo ne povas esti laŭmende nur komerca aŭ nur teknika. El sentoj vivas la homoj multe pli ol per ideoj aŭ mendoj. Eĉ Zamenhof mem konfesis, ke li mem kaj la unuaj pioniroj de Esperanto ŝatis ĝin, „ne tial, ke ĝi alproksimigas reciproke la *korpojn* de la homoj eĉ ne tial, ke ĝi alproksimigas  la *cerbojn* de la homoj, sed nur tial, ke ĝi alproksimigas iliajn *korojn*[^49].“
+Nu, kio estas literaturo? Arto, krei belon per lingvo. Certe la ĉefa celo de mondlingvo estas utilo, ne belo. Sed kiel malpermesi al artisto skribi pli elegante ol ordinara praktikulo? Kiel eviti, ke elokventulo parolas ĝin pli imprese ol timema diskutanto? Lingvo ne povas esti laŭmende nur komerca aŭ nur teknika. El sentoj vivas la homoj multe pli ol per ideoj aŭ mendoj. Eĉ Zamenhof mem konfesis, ke li mem kaj la unuaj pioniroj de Esperanto ŝatis ĝin, „ne tial, ke ĝi alproksimigas reciproke la *korpojn* de la homoj eĉ ne tial, ke ĝi alproksimigas  la *cerbojn* de la homoj, sed nur tial, ke ĝi alproksimigas iliajn *korojn*[^51].“
 
-[^49]: Kongresa parolado Geneve 1906.
+[^51]: Kongresa parolado Geneve 1906.
 
 Jen la tuta sekreto de la unua literaturo en Esperanto. Jam en la komercaj jaroj de la movado formiĝis ĉirkaŭ la Majstro tuta aro da entuziasmaj samesperanoj pri la homaro kaj frateco de popoloj. Liaj fratoj Leono kaj „Fez“, liaj adeptoj Belmont kaj Grabowski, ĉiuj en Varsovio, kantis tiun komunan esperon per nun konataj poemoj. Li mem konstante revenis al sia preferata temo. En la „Liro de la Esperantistoj“, pli malfrue en la „Fundamenta Krestomatio“ troviĝas multaj el tiuj versaĵoj pri la „interna ideo“.
 
@@ -1575,9 +1577,9 @@ Kiam la lingvo jam plivastiĝis, aperis kompreneble poetoj uzantaj Esperanton po
 
 Kompreneble nur malgranda parto valoris el miloj kaj miloj da versaĵoj amase ricevitaj de esperantistaj redakcioj kaj plej ofte entombigitaj en paperkorboj. Sed okazas same pri ĉiu lingvo. Aparte svarmis la „okazaj versaĵoj“. En ili tamen brilis kelkaj veraj talentoj kiel Leo Belmont kaj la angla blankbarba poeto Clarence Bicknell, ĉiam esperante parolanta kun siaj italaj samdomanoj en Bordighera.
 
-Post la milito aperis en la Esperanto-literaturo du grandaj talentoj en Hungarujo: Kalocsay kaj Baghy. Sub ilia plumo, la lingvo fariĝis vere potenca esprimilo. Ĝis tiam la Esperanta poezio konis nur la ritmon per silaba akcento, silaba nombro kaj fina ritmo laŭ la malnovaj modeloj Zamenhofaj[^50]. Ili provis enkonduki asonancojn kiel en antikvaj norda epopeoj. Kantis Kalocsay en sia „Runo“ en 1922:
+Post la milito aperis en la Esperanto-literaturo du grandaj talentoj en Hungarujo: Kalocsay kaj Baghy. Sub ilia plumo, la lingvo fariĝis vere potenca esprimilo. Ĝis tiam la Esperanta poezio konis nur la ritmon per silaba akcento, silaba nombro kaj fina ritmo laŭ la malnovaj modeloj Zamenhofaj[^52]. Ili provis enkonduki asonancojn kiel en antikvaj norda epopeoj. Kantis Kalocsay en sia „Runo“ en 1922:
 
-[^50]: Pri Esperanta versfarado aperis verketoj de Rhodes 1905, Parisot & Cart 1909, Avoto 1918 kaj Stojan (UEA-jarlibro 1927).
+[^52]: Pri Esperanta versfarado aperis verketoj de Rhodes 1905, Parisot & Cart 1909, Avoto 1918 kaj Stojan (UEA-jarlibro 1927).
 
 > Resonadu regionoj \
 > Vekan, varban, vokan voĉon \
@@ -1590,17 +1592,17 @@ Krom kelkaj originaloj, Kalocsay ĉefe uzis sian potencan plumon por traduki en 
 > Malsato la intestojn \
 > De miaj idoj tordas.
 
-Krom siaj poemlibroj „Preter la Vivo“ kaj „Pilgrimo“ Baghy ankaŭ verkis romanon „Viktimoj“ 1926 en sama tendenco kaj en lingvo mirinde vigla kaj trafa. Unuaj originalaj noveloj en Esperanto estis tiuj de franca d-ro Valienne en 1908 kaj 1909 „La Kastelo de Prelongo“ kaj „Ĉu li?“ Kelkajn jarojn poste venis Anglo Luyken, kiu verkis sinsekve „Paŭlo Debenham“, „Mirinda Amo“, „Stranga Heredaĵo“, „Pro Iŝtar“ kaj Nederlandano Bulthuis, postmilita aŭtoro de „ldoj de Orfeo“ kaj „Jozef kaj la edzino de Potifar“ en lingvo preciza kaj riĉa. Juna pola aŭtoro Jean Forge kreis novelojn en stilo pli flua kaj agrable trafa. Tradukoj de liaj „Abismoj“ (1923) aperis en diversaj lingvoj. „Saltego trans jarmiloj“ estas lerta fantaziaĵo[^51].
+Krom siaj poemlibroj „Preter la Vivo“ kaj „Pilgrimo“ Baghy ankaŭ verkis romanon „Viktimoj“ 1926 en sama tendenco kaj en lingvo mirinde vigla kaj trafa. Unuaj originalaj noveloj en Esperanto estis tiuj de franca d-ro Valienne en 1908 kaj 1909 „La Kastelo de Prelongo“ kaj „Ĉu li?“ Kelkajn jarojn poste venis Anglo Luyken, kiu verkis sinsekve „Paŭlo Debenham“, „Mirinda Amo“, „Stranga Heredaĵo“, „Pro Iŝtar“ kaj Nederlandano Bulthuis, postmilita aŭtoro de „ldoj de Orfeo“ kaj „Jozef kaj la edzino de Potifar“ en lingvo preciza kaj riĉa. Juna pola aŭtoro Jean Forge kreis novelojn en stilo pli flua kaj agrable trafa. Tradukoj de liaj „Abismoj“ (1923) aperis en diversaj lingvoj. „Saltego trans jarmiloj“ estas lerta fantaziaĵo[^53].
 
-[^51]: La romanoj Luyken, Stranga Heredaĵo kaj Pro Iŝtar kaj Forge, Abismoj kaj Saltego trans jarmiloj aperis ĉe Ferdinand Ferdinand Hirt & Sohn, Esperanto-Fako, Leipzig.
+[^53]: La romanoj Luyken, Stranga Heredaĵo kaj Pro Iŝtar kaj Forge, Abismoj kaj Saltego trans jarmiloj aperis ĉe Ferdinand Ferdinand Hirt & Sohn, Esperanto-Fako, Leipzig.
 
-Tre vivantaj formoj de literaturo naskiĝis en du samtempaj artistaj rondoj ĉirkaŭ 1923 kaj 1924. En Budapest Julio Baghy, Kalocsay, Schwartz kaj fidela kolegaro per siaj verkoj nutris altnivelan revuon beletristikan „Literatura Mondo“. Sed ili ankaŭ fondis kabaredon, kie ili mem prezentis siajn teatraĵojn, fantaziojn, novajn kantojn. En Nirnberga kongreso ilia vesperfesto estis vera regalo en bongusto kaj lingva brilo. En Parizo simile faris la fondintoj de la „Verda Kato“, kie ĉefe triumfis ŝercaj kantaĵoj kun pikanta sprito pri ĉiuj okazaĵoj de la Esperantista vivo, inkluzive la famaj polemikoj pri organizo[^52].
+Tre vivantaj formoj de literaturo naskiĝis en du samtempaj artistaj rondoj ĉirkaŭ 1923 kaj 1924. En Budapest Julio Baghy, Kalocsay, Schwartz kaj fidela kolegaro per siaj verkoj nutris altnivelan revuon beletristikan „Literatura Mondo“. Sed ili ankaŭ fondis kabaredon, kie ili mem prezentis siajn teatraĵojn, fantaziojn, novajn kantojn. En Nirnberga kongreso ilia vesperfesto estis vera regalo en bongusto kaj lingva brilo. En Parizo simile faris la fondintoj de la „Verda Kato“, kie ĉefe triumfis ŝercaj kantaĵoj kun pikanta sprito pri ĉiuj okazaĵoj de la Esperantista vivo, inkluzive la famaj polemikoj pri organizo[^54].
 
-[^52]: Ĉefa kantverkisto de la „Verda kato“ estis Alsacano Raymond Schwartz.
+[^54]: Ĉefa kantverkisto de la „Verda kato“ estis Alsacano Raymond Schwartz.
 
-Jam de la Unua kongreso kreiĝis la kutimo prezenti teatraĵon en Esperanto. En Boulogne „La Edziĝo kontraŭvola“ de Moliere, en Geneve „La Floro de l' Pasinteco“ de Edmondo de Amiĉis estis ludataj de amatoroj diverslandaj. En Cambridge okazis same pri sceno el Dickens „Bardell kontraŭ Pickwick“. Unuan fojon en Dresden 1908 profesiaj, eĉ famaj aktoroj Emanuel kaj Hedwig Reicher estis lernintaj la lingvon por prezenti klasikaĵon: Ifigenion de Goethe, tradukitan de Zamenhof mem. Tiun ekzemplon imitis katalunaj aktoroj en Barcelona 1909 por dramo de Adria Gual[^53] en Krakovo 1912 por „Mazeppa“ de Slovacki kaj en Antverpeno 1911 la trupo de la Reĝa Flandra teatro por „Kaatje“ de Spaak. Unuafoje originala dramo en esperantaj versoj „Ginevra“ estis ludata de tiu sama trupo en Bern 1913 kaj duan fojon de la trupo de Baghy en Geneve 1925 kun la helpo de germanaj aktoroj gesinjoroj Starke, kiujn jam aplaŭdis la kongresanoj en Niirnberg 1923 ĉe „Natan la Saĝulo“ kaj en Wien 1924 ĉe la „Malŝparulo“.
+Jam de la Unua kongreso kreiĝis la kutimo prezenti teatraĵon en Esperanto. En Boulogne „La Edziĝo kontraŭvola“ de Moliere, en Geneve „La Floro de l' Pasinteco“ de Edmondo de Amiĉis estis ludataj de amatoroj diverslandaj. En Cambridge okazis same pri sceno el Dickens „Bardell kontraŭ Pickwick“. Unuan fojon en Dresden 1908 profesiaj, eĉ famaj aktoroj Emanuel kaj Hedwig Reicher estis lernintaj la lingvon por prezenti klasikaĵon: Ifigenion de Goethe, tradukitan de Zamenhof mem. Tiun ekzemplon imitis katalunaj aktoroj en Barcelona 1909 por dramo de Adria Gual[^55] en Krakovo 1912 por „Mazeppa“ de Slovacki kaj en Antverpeno 1911 la trupo de la Reĝa Flandra teatro por „Kaatje“ de Spaak. Unuafoje originala dramo en esperantaj versoj „Ginevra“ estis ludata de tiu sama trupo en Bern 1913 kaj duan fojon de la trupo de Baghy en Geneve 1925 kun la helpo de germanaj aktoroj gesinjoroj Starke, kiujn jam aplaŭdis la kongresanoj en Niirnberg 1923 ĉe „Natan la Saĝulo“ kaj en Wien 1924 ĉe la „Malŝparulo“.
 
-[^53]: Mistero de Doloro.
+[^55]: Mistero de Doloro.
 
 Ne nur per teatro, sed ankaŭ per granda nombro da libraj tradukoj Esperanto servis por diskonigi eksterlanden la ĉefverkojn de naciaj literaturoj. Antaŭ la Eŭropa milito estis ĉefe presitaj tradukoj de grandlingvaj aŭtoroj Moliĉre, Shakespeare, Goethe, Puŝkin. Ĉino aŭ Japano deziranta koni la esencon de okcidenta literaturo povus tion fari per Esperanto. Sed li kredeble ankaŭ povus en sia propra lingvo, ĉar tiaj aŭtoroj estas ĉie tradukitaj. Tute malsamas pri geniaj verkistoj el pli malgrandaj nacioj. Sur tiu kampo ĉefe laboris tradukistoj kaj eldonistoj en la postmilita epoko, Ĉefverkoj el pola, hungara, bulgara, finna, holanda aŭ kataluna lingvo aperis ĉiam pli multnombre kaj kelkfoje en plej perfekta formo. Tradukistoj kiel Polo Kabe (1905—1910) aŭ Hungaro Kalocsay (1921-1927) estis vere majstraj interpretantoj de sia nacia lingvo. Ili sukcesis uzi ĉiujn rimedojn de Esperanto por doni al la leganto ne nur la sencon, sed eĉ iom de la ritma formo kaj kolora potenco de l' originalo. Tion faciligas la plena elasteco de lingvo ankoraŭ juna kaj libera. La versoj en „Sinjor' Tadeo“ de Mickieviĉ estas nekompareble pli proksimaj al la originalo en la Esperanta traduko de Grabowski ol en iu franca aŭ angla provo. Vortordo kaj ritmo estas respektitaj ofte kun impresa efiko.
 
@@ -1626,9 +1628,9 @@ La plej grava noviĝo en la lingvo estis kompreneble la riĉiĝo de la vortaro. 
 
 La novaj radikoj en Esperanto ekaperis en gazetaj aŭ libraj tekstoj, ankaŭ iafoje en vortaroj. Tiu lasta fonto ĉiam estis la malplej sukcesa, ĉar akcepto ĝeneraliĝas nur per transiro de l' skribo al parolo kaj la vortaroj ne influas la buŝan uzadon. La gazetoj tion faras pro sia ripetata aperado.
 
-La Universala Vortaro de d-ro Zamenhof, kiu fariĝis parto de la Fundamento en 1905, entenis 2635 radikojn laŭ la kalkulo de sinjoro Petro Stojan. En 1909 la Lingva Komitato oficialigis 812 novajn, ĉefe elĉerpitajn el Zamenhofaj verkoj. En 1914 ĝi publikigis Duan Aldonon al la Universala Vortaro kun 592 novaj radikoj kaj en 1922 trian kun 184. Entute la oficiala akademia vortaro de Esperanto entenis do en 1927 nur 4184 radikojn, sed jam en 1910 rektoro Boirac kolektis 11000 por sia vortaro, kaj la nombro de uzataj novaĵoj ankoraŭ multe kreskis intertempe. La *Enciklopedia Vortaro* de *Eugen Wiister*[^54] entenas ĉirkaŭe 18000 radikojn kaj 45000 derivaĵojn. Same kiel alilingvaj akademioj, la Esperantista Lingva Komitato tre singardeme kaj malrapide kronis novaĵojn per la oficialiga stampo. Ĝi atendis, ke ilia uzado fariĝu tute ĝenerala kaj, en la komenco, favoris nur tiujn, kiujn Zamenhof mem uzis en siaj skribaĵoj.
+La Universala Vortaro de d-ro Zamenhof, kiu fariĝis parto de la Fundamento en 1905, entenis 2635 radikojn laŭ la kalkulo de sinjoro Petro Stojan. En 1909 la Lingva Komitato oficialigis 812 novajn, ĉefe elĉerpitajn el Zamenhofaj verkoj. En 1914 ĝi publikigis Duan Aldonon al la Universala Vortaro kun 592 novaj radikoj kaj en 1922 trian kun 184. Entute la oficiala akademia vortaro de Esperanto entenis do en 1927 nur 4184 radikojn, sed jam en 1910 rektoro Boirac kolektis 11000 por sia vortaro, kaj la nombro de uzataj novaĵoj ankoraŭ multe kreskis intertempe. La *Enciklopedia Vortaro* de *Eugen Wiister*[^56] entenas ĉirkaŭe 18000 radikojn kaj 45000 derivaĵojn. Same kiel alilingvaj akademioj, la Esperantista Lingva Komitato tre singardeme kaj malrapide kronis novaĵojn per la oficialiga stampo. Ĝi atendis, ke ilia uzado fariĝu tute ĝenerala kaj, en la komenco, favoris nur tiujn, kiujn Zamenhof mem uzis en siaj skribaĵoj.
 
-[^54]: Aperis ĉe Ferdinand Hirt & Sohn, Esperanto-Fako, Leipzig.
+[^56]: Aperis ĉe Ferdinand Hirt & Sohn, Esperanto-Fako, Leipzig.
 
 Iam lingvistoj kaj universitataj doktorkandidatoj studos detale la historion de Esperanto laŭ pure lingva vidpunkto. Tio ne estis la programo de tiu ĉi verko, rakontanta nur komencan periodon. Tamen estas jam eble eltiri iajn konkludojn el la faktoj. Ni jam diris, ke la lingvo riĉiĝis per du fontoj: radikoj novaj kaj kombinoj de internaj elementoj. La dua maniero certe produktis multe pli ol la unua, kio pruvis la vivecon de la lingvo.
 
@@ -1640,9 +1642,9 @@ La plej gravan rolon ludis kompreneble sufiksoj kaj prefiksoj. Ilia uzo estis tr
 
 En multaj lingvoj la sufiksoj iom post iom perdis sian vivoforton. En Esperanto ili tiom ensangiĝis, ke ilia potencvaloro estas kredeble la plej frapanta karakteraĵo de la lingvo kompare al naciaj okcidentaj paroliloj. En slavaj lingvoj ekzistas ankaŭ tre vivaj sufiksoj, ĉefe „karesaj“, kiel Zamenhofaj `ĉj` kaj `nj`, kiuj cetere preskaŭ tute ne sukcesis en Esperanto.
 
-Lingva historio devos ĝuste studi ankaŭ tiun proporcion de sukceso kaj malsukceso inter la sufiksoj. Kelkaj atingis nekredeblan uzoftecon dum aliaj nur vivetis. `-ing-` estas apenaŭ renkontebla, same `-er-`, `-uj-` pli kaj pli limiĝis al domaj objektoj. Landnomoj en `-lando` aŭ `-io`[^55] plimultiĝis. Ankaŭ formoj en `-arbo`.
+Lingva historio devos ĝuste studi ankaŭ tiun proporcion de sukceso kaj malsukceso inter la sufiksoj. Kelkaj atingis nekredeblan uzoftecon dum aliaj nur vivetis. `-ing-` estas apenaŭ renkontebla, same `-er-`, `-uj-` pli kaj pli limiĝis al domaj objektoj. Landnomoj en `-lando` aŭ `-io`[^57] plimultiĝis. Ankaŭ formoj en `-arbo`.
 
-[^55]: La Akademio malrekomendis en 1921 la uzon de `-io` kiel sufikso. Ĝi opiniis ĝin nekonsilinda kaj tolerebla nur kiel radika finaĵo en internaciaj formoj laŭ artikolo § 15 de l' Fundamento (`Germanio` apud `Germanujo`, same kiel `evolucio` apud `evoluo`). Longaj polemikoj okazis pri la afero, sed tiuj formoj daŭre disvastiĝis en praktiko poŝta. Anstataŭ nepravigeblaj formoj kiel Polio aŭ Svisio, di tiĝis Pollando, Svislando ktp.
+[^57]: La Akademio malrekomendis en 1921 la uzon de `-io` kiel sufikso. Ĝi opiniis ĝin nekonsilinda kaj tolerebla nur kiel radika finaĵo en internaciaj formoj laŭ artikolo § 15 de l' Fundamento (`Germanio` apud `Germanujo`, same kiel `evolucio` apud `evoluo`). Longaj polemikoj okazis pri la afero, sed tiuj formoj daŭre disvastiĝis en praktiko poŝta. Anstataŭ nepravigeblaj formoj kiel Polio aŭ Svisio, di tiĝis Pollando, Svislando ktp.
 
 Novaj sufiksoj ekaperis, unue `-aĉ-` jam en 1902. La Akademio ĝin oficialigis en 1910. Same okazis pri `-ism-`. Flanke de `-inda` envenis iom post iom `-enda` kun senco deva. En la sciencaj verkoj troviĝas `-oza` kaj `-izi`.
 
@@ -1696,9 +1698,9 @@ La tradicio jam estis tiel forta, ke ĉiuj lernolibroj povus esti detruitaj sen 
 
 Pro tio ĝi jam tute apartiĝis de la idea „mondlingva movado“ kaj ĝia historio fariĝis tute sendependa de tiu studado aŭ komparo de artefaritaj lingvaj sistemoj. Estas rimarkinde, kiel eksteraj lingvistoj konstante malfruis je la faktoj. Kiam Esperanto ĝis 1907 apartenis al tiu mondlingva diskutado, ili ankoraŭ ĝenerale neis la eblecon de tia lingvo. Dudek jarojn poste, kiam ĝi vivis jam delonge sian tute apartan kaj propran ekziston, ili komencis interesiĝi pri la mondlingva teorio.
 
-Kion faros ĉiuj lingvistoj post novaj dudek jaroj, nome ekzameni tute science ankaŭ sur tiu kampo la faktojn de la vivo, tion entreprenis nur kelkaj malmultaj. Tiuj funde lernis Esperanton kaj publikigis valorajn studojn pri la evoluo de ĝia fraza vortordo (prof. Collinson, Liverpola universitato) aŭ la uzo de ĝiaj sufiksoj (prof. Aymonnier, Parizo) Psikologia scienculo (prof. Fliigel, Londona universitato) komprenis ankaŭ post funda lerno de Esperanto tiun esencan fakton, ke ĝi reprezentas ne nur lingvon, sed antaŭ ĉio gravan homan kaj socian fakton[^56].
+Kion faros ĉiuj lingvistoj post novaj dudek jaroj, nome ekzameni tute science ankaŭ sur tiu kampo la faktojn de la vivo, tion entreprenis nur kelkaj malmultaj. Tiuj funde lernis Esperanton kaj publikigis valorajn studojn pri la evoluo de ĝia fraza vortordo (prof. Collinson, Liverpola universitato) aŭ la uzo de ĝiaj sufiksoj (prof. Aymonnier, Parizo) Psikologia scienculo (prof. Fliigel, Londona universitato) komprenis ankaŭ post funda lerno de Esperanto tiun esencan fakton, ke ĝi reprezentas ne nur lingvon, sed antaŭ ĉio gravan homan kaj socian fakton[^58].
 
-[^56]: Psikanalizo de la Esperanto-movado.
+[^58]: Psikanalizo de la Esperanto-movado.
 
 La nuna libro, tiom resuma kaj nekompleta, almenaŭ ilustras tion per si mem estante foje pli movada ol lingva. Efektive la historio de Esperanto nepre ligiĝas al tiu de sia popolo, kies unueco kaj vigla interna baraktado estis necesaj por „doni animon al la lingvo“ kaj krei al ĝi vivan centron, el kiu ĝi disflugu al eksteraj uzoj kaj fakoj.
 
